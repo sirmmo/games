@@ -107,9 +107,8 @@
   function cubbyHTML(g) {
     const src = g.cover || g.image || '';
     const dims = g.w && g.h ? ` width="${g.w}" height="${g.h}"` : '';
-    const tint = g.tint
-      ? ` style="--cubby-tint: color-mix(in srgb, ${esc(g.tint)} 26%, var(--cubby-bg))"`
-      : '';
+    // Pre-blended by the sync script, so no color-mix() dependency here.
+    const tint = g.tint ? ` style="--cubby-tint: ${esc(g.tint)}"` : '';
     const mine = num(g.myRating);
     const chip = mine
       ? `<span class="cubby__chip cubby__chip--rated">${mine.toFixed(mine % 1 ? 1 : 0)}</span>`
@@ -193,7 +192,7 @@
     const g = state.games.find((x) => String(x.id) === String(id));
     if (!g) return;
 
-    const tint = g.tint ? ` style="--detail-tint: color-mix(in srgb, ${esc(g.tint)} 35%, var(--wall-2))"` : '';
+    const tint = g.tint ? ` style="--detail-tint: ${esc(g.tint)}"` : '';
     const src = g.cover || g.image || '';
     const best = (g.bestWith || []).length ? `best with ${g.bestWith.join(', ')}` : '';
 

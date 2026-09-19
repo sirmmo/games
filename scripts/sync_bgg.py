@@ -234,6 +234,23 @@ def fetch_things(ids):
     return out
 
 
+def shelf_tint(rgb):
+    """Turn a box's dominant colour into a shadowed cubby interior.
+
+    Desaturated and normalised to a constant luminance so every recess reads as
+    the same depth regardless of how bright the box is, and so the value can be
+    used as a plain hex colour rather than a color-mix() the browser may not
+    support.
+    """
+    r, g, b = [c / 255.0 for c in rgb]
+    luma = 0.2126 * r + 0.7152 * g + 0.0722 * b
+    r, g, b = [luma + (c - luma) * 0.55 for c in (r, g, b)]
+    luma = 0.2126 * r + 0.7152 * g + 0.0722 * b
+    scale = min(0.20 / max(luma, 0.02), 6.0)
+    out = [min(255, max(0, int(round(c * scale * 255)))) for c in (r, g, b)]
+    return "#{:02x}{:02x}{:02x}".format(*out)
+
+
 def cover_for(game):
     """Download + downscale box art once; reuse the cached file forever after."""
     from PIL import Image  # imported late so --no-covers works without Pillow
@@ -278,7 +295,7 @@ def cover_for(game):
                 "cover": "covers/{}.webp".format(gid),
                 "w": rgb.size[0],
                 "h": rgb.size[1],
-                "tint": "#{:02x}{:02x}{:02x}".format(*tint),
+                "tint": shelf_tint(tint),
             }
             meta.write_text(json.dumps(info))
             return info
