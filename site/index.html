@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>sirmmo's shelf — board game collection</title>
+<meta name="description" content="Marco Montanari's board game collection, synced daily from BoardGameGeek and shelved on a Kallax.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='2' fill='%23e8e4dd'/><rect x='2' y='2' width='5' height='5' fill='%23b4472e'/><rect x='9' y='2' width='5' height='5' fill='%232e5b8c'/><rect x='2' y='9' width='5' height='5' fill='%23d8a03a'/><rect x='9' y='9' width='5' height='5' fill='%233f7a55'/></svg>">
+<link rel="preload" href="data/collection.json" as="fetch" crossorigin>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<a class="skip" href="#shelf">Skip to the shelf</a>
+
+<header class="masthead">
+  <div class="masthead__inner">
+    <div class="brand">
+      <h1>The Shelf</h1>
+      <p class="brand__sub">
+        <span id="stat-games">—</span> games
+        <span class="dot" aria-hidden="true">·</span>
+        <span id="stat-exp">—</span> expansions
+        <span class="dot" aria-hidden="true">·</span>
+        <span id="stat-plays">—</span> plays logged
+      </p>
+    </div>
+
+    <div class="finish" role="group" aria-label="Shelf finish">
+      <button type="button" class="finish__swatch" data-finish="white"  aria-pressed="true"  title="White"><span></span></button>
+      <button type="button" class="finish__swatch" data-finish="oak"    aria-pressed="false" title="Oak effect"><span></span></button>
+      <button type="button" class="finish__swatch" data-finish="black"  aria-pressed="false" title="Black-brown"><span></span></button>
+    </div>
+  </div>
+
+  <div class="controls">
+    <div class="field field--search">
+      <label class="sr-only" for="q">Search the collection</label>
+      <svg class="field__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search titles, designers, mechanics…" autocomplete="off" spellcheck="false">
+      <kbd aria-hidden="true">/</kbd>
+    </div>
+
+    <div class="field">
+      <label for="players">Players</label>
+      <select id="players">
+        <option value="">Any</option>
+        <option value="1">1</option><option value="2">2</option>
+        <option value="3">3</option><option value="4">4</option>
+        <option value="5">5</option><option value="6">6</option>
+        <option value="7">7+</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="time">Time</label>
+      <select id="time">
+        <option value="">Any</option>
+        <option value="0-30">under 30m</option>
+        <option value="30-60">30–60m</option>
+        <option value="60-120">1–2h</option>
+        <option value="120-9999">2h+</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="weight">Weight</label>
+      <select id="weight">
+        <option value="">Any</option>
+        <option value="0-2">Light</option>
+        <option value="2-3">Medium-light</option>
+        <option value="3-4">Medium-heavy</option>
+        <option value="4-5">Heavy</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="name">A–Z</option>
+        <option value="rating">BGG rating</option>
+        <option value="myrating">My rating</option>
+        <option value="rank">BGG rank</option>
+        <option value="year">Newest</option>
+        <option value="plays">Most played</option>
+        <option value="weight">Heaviest</option>
+      </select>
+    </div>
+
+    <label class="toggle">
+      <input type="checkbox" id="show-exp">
+      <span>Expansions</span>
+    </label>
+  </div>
+</header>
+
+<main>
+  <p class="resultline" id="resultline" role="status" aria-live="polite"></p>
+
+  <div id="shelf" class="shelf-wrap">
+    <div class="shelf" id="kallax" aria-busy="true"></div>
+    <div class="shelf__floor" aria-hidden="true"></div>
+  </div>
+
+  <p class="empty" id="empty" hidden></p>
+</main>
+
+<footer class="colophon">
+  <p>
+    Collection of <a href="https://boardgamegeek.com/user/sirmmo">sirmmo</a> on BoardGameGeek,
+    synced daily. Last sync <time id="synced">—</time>.
+  </p>
+  <p class="colophon__fine">
+    Box art and game data © their respective publishers, via the
+    <a href="https://boardgamegeek.com/using_the_xml_api">BGG XML API</a>.
+    <a href="https://github.com/sirmmo/games">Source</a>.
+  </p>
+</footer>
+
+<dialog id="detail" class="detail" aria-labelledby="detail-title">
+  <button class="detail__close" type="button" aria-label="Close">&times;</button>
+  <div class="detail__body"></div>
+</dialog>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>

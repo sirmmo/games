@@ -1,0 +1,82 @@
+name: Sync BGG collection
+
+on:
+  schedule:
+    # Daily at 05:17 UTC — off the hour to be polite to BGG's API.
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/**'
+      - '.github/workflows/sync.yml'
+
+# Pages deployment must not overlap with itself.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit the refreshed collection + cached covers
+  pages: write      # publish to GitHub Pages
+  id-token: write   # OIDC token for the Pages deploy
+
+jobs:
+  sync-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check -r scripts/requirements.txt
+
+      - name: Sync collection from BoardGameGeek
+        id: sync
+        # Never block publishing on a BGG hiccup: the committed JSON from the
+        # last good run stays on the shelf until the next sync succeeds.
+        continue-on-error: true
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+          BGG_USERNAME: ${{ vars.BGG_USERNAME || 'sirmmo' }}
+        run: python scripts/sync_bgg.py
+
+      - name: Commit refreshed collection
+        if: steps.sync.outcome == 'success'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data site/covers
+          if git diff --cached --quiet; then
+            echo "No collection changes."
+          else
+            count=$(git diff --cached --name-only | wc -l)
+            git commit -m "Sync BGG collection ($count files changed)"
+            git push
+          fi
+
+      - name: Report sync failure
+        if: steps.sync.outcome == 'failure'
+        run: |
+          echo "::warning title=BGG sync failed::Publishing the last known-good collection instead."
+          echo "### ⚠️ BGG sync failed" >> "$GITHUB_STEP_SUMMARY"
+          echo "Publishing the previously committed collection." >> "$GITHUB_STEP_SUMMARY"
+          echo "Check that the \`BGG_TOKEN\` secret is set and still valid." >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
