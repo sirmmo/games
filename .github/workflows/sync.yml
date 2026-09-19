@@ -41,6 +41,9 @@ jobs:
 
       - name: Sync collection from BoardGameGeek
         id: sync
+        # Pushes only ever touch the site itself, so they republish the
+        # committed collection instead of hitting BGG again.
+        if: github.event_name != 'push'
         # Never block publishing on a BGG hiccup: the committed JSON from the
         # last good run stays on the shelf until the next sync succeeds.
         continue-on-error: true

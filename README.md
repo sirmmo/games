@@ -3,7 +3,9 @@
 My board game collection, synced daily from [BoardGameGeek](https://boardgamegeek.com/user/sirmmo)
 and shelved on a Kallax.
 
-**→ [sirmmo.github.io/games](https://sirmmo.github.io/games/)**
+**→ [ingmmo.com/games](https://ingmmo.com/games/)**
+
+(`sirmmo.github.io/games` redirects there — the account-level custom domain wins.)
 
 Every owned game gets a cubby, box art facing out. Search by title, designer or
 mechanic; filter by player count, play time and weight; sort by rating, rank,
