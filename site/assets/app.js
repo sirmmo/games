@@ -58,7 +58,8 @@
 
   function haystack(g) {
     if (!g._hay) {
-      g._hay = [g.name, g.year, ...(g.designers || []), ...(g.mechanics || []),
+      g._hay = [g.name, g.originalName, g.year, g.edition,
+        ...(g.designers || []), ...(g.mechanics || []),
         ...(g.categories || []), ...(g.publishers || [])].join(' ').toLowerCase();
     }
     return g._hay;
@@ -113,7 +114,10 @@
     const chip = mine
       ? `<span class="cubby__chip cubby__chip--rated">${mine.toFixed(mine % 1 ? 1 : 0)}</span>`
       : '';
-    const exp = g.isExpansion ? '<span class="cubby__exp" title="Expansion">+</span>' : '';
+    const owned = g.ownedExpansions || 0;
+    const exp = g.isExpansion
+      ? '<span class="cubby__exp" title="Expansion">+</span>'
+      : (owned ? `<span class="cubby__exp cubby__exp--owned" title="${owned} expansion${owned > 1 ? 's' : ''} on the shelf">+${owned}</span>` : '');
     const year = g.year ? ` <span class="cubby__year">${esc(g.year)}</span>` : '';
 
     const art = src
@@ -202,12 +206,15 @@
       (g.designers || []).slice(0, 3).join(', ') || null,
     ].filter(Boolean).join(' · ');
 
+    const alt = g.originalName && g.originalName !== g.name ? g.originalName : '';
+
     dialog.querySelector('.detail__body').innerHTML = `
       <div class="detail__art"${tint}>
         ${src ? `<img src="${esc(src)}" alt="Box art for ${esc(g.name)}">` : ''}
       </div>
       <div class="detail__text">
         <h2 id="detail-title">${esc(g.name)}</h2>
+        ${alt ? `<p class="detail__alt">${esc(alt)}</p>` : ''}
         <p class="detail__meta">${esc(meta)}</p>
         <ul class="facts">
           ${fact('Players', players(g))}
@@ -218,10 +225,14 @@
           ${fact('My rating', num(g.myRating) ? String(g.myRating) : '')}
           ${fact('Rank', num(g.rank) ? `#${g.rank}` : '')}
           ${fact('Plays', g.plays ? String(g.plays) : '')}
+          ${fact('Expansions', g.ownedExpansions ? String(g.ownedExpansions) : '')}
+          ${fact('Copies', g.copies > 1 ? String(g.copies) : '')}
         </ul>
         ${g.description ? `<p class="detail__desc">${esc(g.description)}</p>` : ''}
         ${(g.mechanics || []).length ? `<p class="tags"><b>Mechanics</b> ${esc(g.mechanics.slice(0, 8).join(' · '))}</p>` : ''}
         ${(g.expands || []).length ? `<p class="tags"><b>Expands</b> ${esc(g.expands.map((e) => e.name).join(' · '))}</p>` : ''}
+        ${g.edition ? `<p class="tags"><b>My copy</b> ${esc(g.edition)}</p>` : ''}
+        ${g.comment ? `<p class="tags"><b>Note</b> ${esc(g.comment)}</p>` : ''}
         <a class="detail__link" href="${esc(g.url)}" target="_blank" rel="noopener">View on BoardGameGeek →</a>
       </div>`;
 

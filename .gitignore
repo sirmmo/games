@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 site/covers/*.tmp
 .DS_Store
+site/data/.details-cache.json

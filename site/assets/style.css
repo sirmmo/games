@@ -281,6 +281,12 @@ select {
 }
 .cubby__chip--rated { background: var(--accent); }
 
+.cubby__exp--owned {
+  background: rgb(0 0 0 / .42);
+  font-weight: 700;
+  width: auto; padding: 0 .35em;
+}
+
 .cubby__exp {
   position: absolute; top: .5em; left: .5em;
   width: 1.15em; height: 1.15em; line-height: 1.1em; text-align: center;
@@ -339,7 +345,8 @@ select {
 
 .detail__text { padding: 1.4rem 1.5rem 1.6rem; min-width: 0; }
 .detail__text h2 { margin: 0 0 .1rem; font-size: 1.45rem; line-height: 1.15; letter-spacing: -.02em; }
-.detail__meta { margin: 0 0 1rem; color: var(--ink-soft); font-size: .88rem; }
+.detail__alt { margin: .1rem 0 0; font-size: .92rem; font-style: italic; color: var(--ink-soft); }
+.detail__meta { margin: .3rem 0 1rem; color: var(--ink-soft); font-size: .88rem; }
 
 .facts { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; padding: 0; list-style: none; }
 .facts li {

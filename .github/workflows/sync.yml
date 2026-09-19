@@ -39,21 +39,47 @@ jobs:
       - name: Install dependencies
         run: pip install --disable-pip-version-check -r scripts/requirements.txt
 
-      - name: Sync collection from BoardGameGeek
+      - name: Choose a collection source
+        id: mode
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+        run: |
+          if [ -n "$BGG_TOKEN" ]; then
+            echo "source=api" >> "$GITHUB_OUTPUT"
+          elif [ -f collection.csv ]; then
+            echo "source=csv" >> "$GITHUB_OUTPUT"
+          else
+            echo "source=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes only ever touch the site itself, so they republish the committed
+      # collection rather than querying BGG again.
+      # Both importers are continue-on-error: a BGG hiccup must never empty the
+      # shelf, it just leaves the last known-good collection in place.
+      - name: Sync collection from the BGG XML API
         id: sync
-        # Pushes only ever touch the site itself, so they republish the
-        # committed collection instead of hitting BGG again.
-        if: github.event_name != 'push'
-        # Never block publishing on a BGG hiccup: the committed JSON from the
-        # last good run stays on the shelf until the next sync succeeds.
+        if: github.event_name != 'push' && steps.mode.outputs.source == 'api'
         continue-on-error: true
         env:
           BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
           BGG_USERNAME: ${{ vars.BGG_USERNAME || 'sirmmo' }}
         run: python scripts/sync_bgg.py
 
+      - name: Import collection from CSV
+        id: import
+        if: github.event_name != 'push' && steps.mode.outputs.source == 'csv'
+        continue-on-error: true
+        run: |
+          python scripts/import_csv.py collection.csv
+          {
+            echo "### Shelf built from \`collection.csv\`"
+            echo "No \`BGG_TOKEN\` secret is set, so this run used the committed CSV"
+            echo "export rather than the live API. The shelf will only change when a"
+            echo "fresh CSV is committed. Add the secret for a real daily sync."
+          } >> "$GITHUB_STEP_SUMMARY"
+
       - name: Commit refreshed collection
-        if: steps.sync.outcome == 'success'
+        if: steps.sync.outcome == 'success' || steps.import.outcome == 'success'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,12 +93,14 @@ jobs:
           fi
 
       - name: Report sync failure
-        if: steps.sync.outcome == 'failure'
+        if: steps.sync.outcome == 'failure' || steps.import.outcome == 'failure' || steps.mode.outputs.source == 'none'
         run: |
-          echo "::warning title=BGG sync failed::Publishing the last known-good collection instead."
-          echo "### ⚠️ BGG sync failed" >> "$GITHUB_STEP_SUMMARY"
-          echo "Publishing the previously committed collection." >> "$GITHUB_STEP_SUMMARY"
-          echo "Check that the \`BGG_TOKEN\` secret is set and still valid." >> "$GITHUB_STEP_SUMMARY"
+          echo "::warning title=Collection refresh failed::Publishing the last known-good collection instead."
+          {
+            echo "### ⚠️ Collection refresh failed"
+            echo "Source: \`${{ steps.mode.outputs.source }}\`. Publishing the previously committed collection."
+            echo "Check that \`BGG_TOKEN\` is set and valid, or that \`collection.csv\` is present."
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/configure-pages@v5
 
