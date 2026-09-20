@@ -121,7 +121,7 @@
    "myRating": 8.0,
    "name": "7 Wonders",
    "originalName": "7 Wonders",
-   "ownedExpansions": 6,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -204,7 +204,7 @@
    "myRating": null,
    "name": "7 Wonders Duel",
    "originalName": "7 Wonders Duel",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -254,12 +254,7 @@
     "Bruno Cathala"
    ],
    "edition": "Multilingual edition · French; German · Repos Production",
-   "expands": [
-    {
-     "id": 173346,
-     "name": "7 Wonders Duel"
-    }
-   ],
+   "expands": [],
    "h": 160,
    "id": 186069,
    "image": "https://cf.geekdo-images.com/BRdNJUFy2ZYYjhpyQCp1IA__itemrep/img/nU6G0WK1SCqSaZQsA5eGV57ICoA=/fit-in/246x300/filters:strip_icc()/pic2703327.png",
@@ -315,12 +310,7 @@
     "Bruno Cathala"
    ],
    "edition": "Italian edition · Italian · Repos Production",
-   "expands": [
-    {
-     "id": 173346,
-     "name": "7 Wonders Duel"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 202976,
    "image": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__itemrep@2x/img/0DsIEwzVoAXEZHhew7o74FLZJ2w=/fit-in/492x600/filters:strip_icc()/pic3143885.png",
@@ -376,12 +366,7 @@
     "Antoine Bauza"
    ],
    "edition": "Italian edition · Italian · Asterion Press",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 491,
    "id": 154638,
    "image": "https://cf.geekdo-images.com/uQkyWi00KY9dc7J0QGg_fQ__itemrep@2x/img/_5EH6K49gtcUjM7R87St2s47ExY=/fit-in/492x600/filters:strip_icc()/pic2286085.jpg",
@@ -443,12 +428,7 @@
     "Antoine Bauza"
    ],
    "edition": "English/German edition · English; German · Repos Production",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 108,
    "id": 110308,
    "image": "https://cf.geekdo-images.com/F99j2tOu97d_ekn3D1GGAQ__itemrep/img/czbGdwNj5JfadhylkuGtl5OjbpU=/fit-in/246x300/filters:strip_icc()/pic1115825.jpg",
@@ -512,12 +492,7 @@
     "Antoine Bauza"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Repos Production",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 111661,
    "image": "https://cf.geekdo-images.com/P1kQ0kQIoulihI9KlBh4MQ__itemrep@2x/img/ST_TrRPtZ_BwvM_C0gWy4v3a4tQ=/fit-in/492x600/filters:strip_icc()/pic1380423.jpg",
@@ -583,12 +558,7 @@
     "Antoine Bauza"
    ],
    "edition": "Italian edition 2011 · Italian · Repos Production",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 92539,
    "image": "https://cf.geekdo-images.com/S8YmOOnFFI58OZ3bBM2A7w__itemrep@2x/img/f5eeZ93tzPpshS-Ogz0WCgDR3SY=/fit-in/492x600/filters:strip_icc()/pic1046319.jpg",
@@ -652,12 +622,7 @@
     "Antoine Bauza"
    ],
    "edition": "German edition · German · Repos Production; W. Nostheide Verlag GmbH",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 240,
    "id": 83445,
    "image": "https://cf.geekdo-images.com/5FWrxdWju1W0XLVBLFGHFg__itemrep@2x/img/nSKsKOX1YkDl-sAG2XXSo0jfKCg=/fit-in/492x600/filters:strip_icc()/pic6358601.jpg",
@@ -718,12 +683,7 @@
     "Antoine Bauza"
    ],
    "edition": "English/French/German/Spanish edition · English; French; German; Spanish · Repos Production",
-   "expands": [
-    {
-     "id": 68448,
-     "name": "7 Wonders"
-    }
-   ],
+   "expands": [],
    "h": 108,
    "id": 133993,
    "image": "https://cf.geekdo-images.com/bw0PckqkrVI37k_Cy2EqUQ__itemrep/img/dai_YdxmtAuk42iTcjjXvSHGI8w=/fit-in/246x300/filters:strip_icc()/pic1495052.jpg",
@@ -788,12 +748,7 @@
     "Jason Walden"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 103343,
-     "name": "Il Trono di Spade: Il Gioco da Tavolo Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 257496,
    "image": "https://cf.geekdo-images.com/hz59P7Dxi8e9szrzL42zAQ__itemrep@2x/img/Cp6cpjb7_kV7oRsRGMGo_74XH9o=/fit-in/492x600/filters:strip_icc()/pic4681569.jpg",
@@ -862,12 +817,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 194198,
    "image": "https://cf.geekdo-images.com/kfwH41OS_jU_x9EZciIMiQ__itemrep/img/ezkR0qjvLChD_QWRyvDLKcfQ-ec=/fit-in/246x300/filters:strip_icc()/pic2905180.png",
@@ -919,12 +869,7 @@
    "description": "Description from the publisher:\n\nIn the aftermath of the Battle of the Blackwater, a moment of peace falls across Westeros — but schemes are hatching in the darkness. All Men Are Fools is the first Chapter Pack of the \"Blood and Gold\" cycle for A Game of Thrones: The Card Game, and following the lead of the previous two cycles, this cycle focuses on the next book of the series, A Storm of Swords. At the same time, you'll find a new focus on your gold with a brand-new keyword and recurring events.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 218983,
    "image": "https://cf.geekdo-images.com/CQD2nthQlaDPQiVpTjeQBA__itemrep@2x/img/EPfeGk10mzBMT0XlT-yToG3g7vE=/fit-in/492x600/filters:strip_icc()/pic3372403.png",
@@ -977,12 +922,7 @@
    "description": "At the Gates is the first Chapter Pack in the King's Landing cycle for A Game of Thrones: The Card Game.\n\nFeaturing three copies each of twenty distinct cards, this Chapter Pack marks the beginning of the sixth cycle of Chapter Packs for A Game of Thrones: The Card Game. The King’s Landing cycle takes a new approach to the Game of Thrones LCG. Rather than following the plot of A Song of Ice and Fire, this cycle is centered around the capital of Westeros, allowing you to explore the world of Westeros more freely than ever before.\n\nYour journey begins at the great wall that surrounds the capital city. Aegon I Targaryen had seven gates built as the entrances to his grand metropolis in honor or the number sacred to the Faith of the Seven. Now in At the Gates, the great Houses of Westeros gain access to these blessed locations. Each gate is a low-cost location that can provide you with income from their tolls and the chance to sacrifice them in exchange for two draws if you embrace the spirit of your chosen House. Additionally, this Chapter Pack features new versions of beloved characters, embracing the plots and deadly intrigues of A Song of Ice and Fire with the continuation of the…",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 277567,
    "image": "https://cf.geekdo-images.com/ylXmKXLC76ZkARefvlOvDA__itemrep@2x/img/dvtXvqeM_EccGuarq5SewE5gx7w=/fit-in/492x600/filters:strip_icc()/pic5875644.png",
@@ -1029,12 +969,7 @@
    "description": "Your exploration of King's Landing takes you to the heart of the city in Beneath the Red Keep, the fourth Chapter Pack in the \"King's Landing\" cycle for A Game of Thrones: The Card Game!\n\nAs the sixth cycle of A Game of Thrones: The Card Game continues, you are free to explore the streets and alleys of the capital of the Seven Kingdoms without being bound to the timeline of A Song of Ice and Fire.\n\nWith new locations that help you stand ready against any unwanted surprises your enemy may have in store, this Chapter Pack explores every corner of the Red Keep from its towers to its dungeons, and at every turn, spies and assassins wait for the opportune moment to spring their traps on unsuspecting enemies. Complete with a new agenda that lets your deck draw from the shadowy power of any House, this pack encourages you to make the most of the shadows, spin your schemes, and claim the castle for your own!\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 278302,
    "image": "https://cf.geekdo-images.com/ckOifgYCgyTg8wFYQ7ZMDQ__itemrep@2x/img/O484nxINLcfN5YymKf0q13CmmUE=/fit-in/492x600/filters:strip_icc()/pic4698933.png",
@@ -1090,12 +1025,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 196619,
    "image": "https://cf.geekdo-images.com/RzWA0tdD2IoN06B0c5mzNA__itemrep/img/0vPbKTcQxUpbr0NCv0aBOECOzus=/fit-in/246x300/filters:strip_icc()/pic2955402.png",
@@ -1153,12 +1083,7 @@
    "description": "Description from the publisher:\n\n\"The Great Shepherd sent me to earth to heal his lambs, wherever I might find them.\" – George R.R. Martin, A Game of Thrones\n\nWesteros lies under a deceptive calm. In King’s Landing, Eddard Stark pulls another layer away from the lies surrounding Robert Baratheon’s children. The Eyrie is shaken by the arrival of Tyrion Lannister and his desperate gambit to win his freedom. Across the Narrow Sea, a maegi plots her vengeance against Khal Drogo for the destruction of her peaceful village. Everywhere, events are set in motion that will bear terrible consequences.\n\nIn the Calm over Westeros Chapter Pack, the first cycle for A Game of Thrones: The Card Game approaches the end of the first book in A Song of Ice and Fire. Like the other Chapter Packs of the Westeros cycle, this expansion offers new cards and plots to increase your deckbuilding options. You’ll also find instantly recognizable characters and locations entering the game for the first time, including Bronn, Mirri Maz Duur, and The Eyrie. With the further addition of two new plots — one loyal to House Tyrell and one neutral — this Chapter Pack will fuel your future decks and strategies.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 191236,
    "image": "https://cf.geekdo-images.com/hH62_S2f6l2bBd7HIUhEIA__itemrep/img/JGS-j8fWgu4O1jvoV6qHyEWkEWs=/fit-in/246x300/filters:strip_icc()/pic2830616.png",
@@ -1214,12 +1139,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 277578,
    "image": "https://cf.geekdo-images.com/xJ1VclrEJykbzNnx77Y0Ag__itemrep@2x/img/mIlgBzWo1nqzcqejzKz8qnSfX4U=/fit-in/492x600/filters:strip_icc()/pic4682717.png",
@@ -1269,12 +1189,7 @@
    "description": "Defend the Night's Watch with the Daggers in the Dark Chapter Pack for A Game of Thrones: The Card Game! The sixth and final entry in the \"Dance of Shadows\" cycle, this pack features the return of the Shadow keyword from the game's first edition to create new ways to conspire, as well as iconic characters and events that fully embrace the underhanded shadowplay!\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 258651,
    "image": "https://cf.geekdo-images.com/P_I4oHBbZCn5We1Z7sGIjA__itemrep@2x/img/IWgXVujcY-iW-DsdOMzdCofBnyo=/fit-in/492x600/filters:strip_icc()/pic4269704.png",
@@ -1328,12 +1243,7 @@
     "Nate French"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 294384,
    "image": "https://cf.geekdo-images.com/T91JDOEwE-xZ90myNO-30A__itemrep@2x/img/spGixTr9SypsVV9m9ehfviAWEsI=/fit-in/492x600/filters:strip_icc()/pic5055109.jpg",
@@ -1381,12 +1291,7 @@
    "description": "The world of Westeros has been defined and shaped by religion, whether held devoutly or used as a pretense for power. In Favor of the Old Gods, you'll find the continuation of the \"Flight of Crows\" cycle, which draws players deeper into the events of A Feast for Crows with cards that feature the bestow keyword or reward you for forging alliances between factions. From a new agenda evoking the mystical powers of the greenseers to characters like Selyse Baratheon and Ser Balon Swann, this Chapter Pack has plenty to offer for every faction.\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 239939,
    "image": "https://cf.geekdo-images.com/iwtMN5x2yahJtLJT6gYsww__itemrep@2x/img/2qESKD0V6s60I6k4tD6BpA5gWTw=/fit-in/492x600/filters:strip_icc()/pic3835081.png",
@@ -1436,12 +1341,7 @@
    "description": "Description from the publisher:\n\nThe War of Five Kings has already begun to shape the future of Westeros. Robb Stark marches on Lannister holdings, even as Tywin Lannister menaces the Riverlands from Harrenhal. To the south, Stannis Baratheon lays siege to Storm's End and Renly Baratheon calls upon the might of Highgarden to break his brother's armies. Yet in the midst of these kingly conflicts, another drama unfolds far to the north. From Castle Black, the Night's Watch rides forth in a great ranging and ventures beyond the Wall to confront Mance Rayder and brave the fury of the wild. If they fail to defend the realms of men, the consequences could reach far beyond the icy heights of the Wall.\n\nA Game of Thrones: The Card Game – For Family Honor is an upcoming Chapter Pack in the \"War of Five Kings\" cycle that continues to follow the storyline of A Clash of Kings. Throughout this Chapter Pack, you'll find plenty of new cards that support the major themes of the cycle. New Kings and Crowns invite you to stake your own claim to the Iron Throne, even as other cards heighten the importance of loyal cards: the characters you can truly trust, the locations that would never fall, the…",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 200634,
    "image": "https://cf.geekdo-images.com/_wx2_xGSSy7hbmpQrB893Q__itemrep@2x/img/v4ws03BDBmdlu226mA3LScArl7U=/fit-in/492x600/filters:strip_icc()/pic3063641.jpg",
@@ -1497,12 +1397,7 @@
     "Michael Hurley"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 279766,
    "image": "https://cf.geekdo-images.com/iyzuOcSW2mgUMjlMUzYseQ__itemrep@2x/img/jbPNrpU37rksPUVyT7h3ldAfzVg=/fit-in/492x600/filters:strip_icc()/pic5879765.jpg",
@@ -1546,12 +1441,7 @@
    "description": "Description from the publisher:\n\nEnter your own name in contention for this cursed stronghold of Harrenhal with the Ghosts of Harrenhal Chapter Pack for A Game of Thrones: The Card Game. As the War of the Five Kings has touched every corner of Westeros, you'll find new cards in this expansion that interact with the King trait, while other cards help you counter the drastic bloodshed of Valar Morghulis. Finally, you'll encounter a host of iconic characters in this Chapter Pack, including Roose Bolton, Brienne of Tarth, Craster, Ser Davos Seaworth, Joffrey Baratheon, and Myrcella Baratheon.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 212312,
    "image": "https://cf.geekdo-images.com/yfyuRFtdXWA5FxHcyiPhJQ__itemrep/img/nGy72QYotLPqdxvi1WPScQD9G1Q=/fit-in/246x300/filters:strip_icc()/pic3238283.jpg",
@@ -1606,12 +1496,7 @@
     "Nate French"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 224754,
    "image": "https://cf.geekdo-images.com/uQCiIu5voF6jvtWyq0vfMg__itemrep@2x/img/jr0MmA1isdVFmWET8u0ryPYWUNQ=/fit-in/492x600/filters:strip_icc()/pic3539799.png",
@@ -1663,12 +1548,7 @@
    "description": "House Tyrell surges into the light with House of Thorns, a new deluxe expansion for A Game of Thrones: The Card Game! Within this box, you'll find a wealth of new cards, bringing powerful new options to support and diversify House Tyrell's most important themes, alongside iconic characters sworn to House Tyrell, including Mace Tyrell, the Queen of Thorns, Margaery Tyrell, and the Knight of Flowers. Though House Tyrell receives the bulk of the cards in this expansion, you'll also find new non-loyal cards for each of the seven other factions and new options for any deck with seven new plots (one loyal to House Tyrell and six neutral).\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 236435,
    "image": "https://cf.geekdo-images.com/sa4pmb0P5oB4pFAGW2Lkxg__itemrep@2x/img/wLHmo11BQJWkhOsvZkrCrMZal_8=/fit-in/492x600/filters:strip_icc()/pic3763055.jpg",
@@ -1722,12 +1602,7 @@
    "description": "Enter the fighting pits with the In Daznak's Pit Chapter Pack for A Game of Thrones: The Card Game! The fifth entry in the \"Dance of Shadows\" cycle, this pack features the return of the Shadow keyword from the game's first edition to create new ways to lay your traps, as well as powerful cards to counter your enemy's conspiracies!\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 258652,
    "image": "https://cf.geekdo-images.com/upczzd03freJPaTxaj8-xw__itemrep@2x/img/aIxmiK8yx5MqN9xVx9JrDl4xYNA=/fit-in/492x600/filters:strip_icc()/pic4269706.png",
@@ -1773,12 +1648,7 @@
    "description": "Journey to Oldtown, like The Archmaester's Key before it, focuses on amplifying the major themes of the fourth cycle in A Game of Thrones: The Card Game. While it continues to follow the major events of A Feast for Crows, this cycle brings new strength to the bestow keyword and provides incentives for the factions to forge alliances and band together. Along the way, you'll encounter a host of iconic characters and locations entering the game, including The House of Black and White, Thoros of Myr, a new version of Arianne Martell, and a lord of House Botley, Tris Botley.\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 235543,
    "image": "https://cf.geekdo-images.com/whCEud5IYwBdQL3q9BXNAg__itemrep@2x/img/m0i0smWiU2uyObTURsM1K9qBdDc=/fit-in/492x600/filters:strip_icc()/pic3741709.png",
@@ -1830,12 +1700,7 @@
     "Nate French"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 599,
    "id": 262638,
    "image": "https://cf.geekdo-images.com/aOyYYPbOYQf9n0D2DVjufg__itemrep@2x/img/5pa99Xk04aN-lG7LP-GzU3ez-dw=/fit-in/492x600/filters:strip_icc()/pic4373444.png",
@@ -1894,12 +1759,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 237731,
    "image": "https://cf.geekdo-images.com/RDdGsZNroUNo0d5I6lzkWg__itemrep@2x/img/hoslBfeSwPpoKGhsMkb8VJRN728=/fit-in/492x600/filters:strip_icc()/pic3789751.png",
@@ -1951,12 +1811,7 @@
    "description": "Description from the publisher:\n\nLions of Casterly Rock, the second deluxe expansion for A Game of Thrones: The Card Game, invites you to take your place among the storied names of House Lannister. Within this expansion, the Lannisters explore new themes, launching an ambush with their Clansman allies, redoubling their focus on the intrigue challenge, and sending out marauders to pillage the lands of Westeros. You’ll also find new versions of the most iconic Lannister characters, including Tywin Lannister, Cersei Lannister, Ser Jaime Lannister, and Tyrion Lannister.\n\nOf course, while House Lannister holds the spotlight here, you’ll also gain two new non-loyal cards for each other faction with new characters entering the game for the first time, including Edric Storm, Victarion Greyjoy, Trystane Martell, and Jeyne Westerling. Finally, you’ll have the chance to reshape your plot decks with seven new plots (six neutral and one loyal to House Lannister).",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 201277,
    "image": "https://cf.geekdo-images.com/GOMBCVECMktpmX-VQt9lqQ__itemrep@2x/img/G9E3Do2ZdZKqXgqrXUjCfLDc74Q=/fit-in/492x600/filters:strip_icc()/pic3083174.jpg",
@@ -2012,12 +1867,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 282256,
    "image": "https://cf.geekdo-images.com/2BbzRLzg7A22fzimXII1yg__itemrep@2x/img/1EIwoMvGrVaaI83l4n8L_ZtBUQg=/fit-in/492x600/filters:strip_icc()/pic4819191.png",
@@ -2072,12 +1922,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 258730,
    "image": "https://cf.geekdo-images.com/TI5Cd90eT49bCoIwfjgeNA__itemrep@2x/img/soxT7CSf6nX5i9yOjoN4-cgvfGo=/fit-in/492x600/filters:strip_icc()/pic4271130.png",
@@ -2131,12 +1976,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 185060,
    "image": "https://cf.geekdo-images.com/DVsmfnhbSkBTv567WIy4Fg__itemrep/img/kSuCpO_Iajl2W3SPZXq6-NSNrpA=/fit-in/246x300/filters:strip_icc()/pic2786344.jpg",
@@ -2182,12 +2022,7 @@
    "description": "Description from the publisher:\n\nOberyn's Revenge, the fifth Chapter Pack in the \"Blood and Gold\" cycle in A Game of Thrones: The Card Game, continues the major themes of the cycle and invites you to play out some of the most iconic events from A Storm of Swords. Even as dark events and schemes unfold around you, you can use your gold and the new bestow keyword to gain new levels of control over the game. As new versions of the Red Viper and Bran Stark enter the game alongside characters like Irri and Ser Garlan Tyrell, your vengeance is about to become more vicious than ever before.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 227881,
    "image": "https://cf.geekdo-images.com/K8Eq5ChydW-poO8j9_KN2A__itemrep@2x/img/E1XcBAY_Y6ft53GGKehhnAOyVeY=/fit-in/492x600/filters:strip_icc()/pic3564099.png",
@@ -2233,12 +2068,7 @@
    "description": "Beware the treacheries of the church and the court in Pit of Snakes, the third Chapter Pack in the King's Landing cycle for A Game of Thrones: The Card Game!\n\nIn the sixth cycle of A Game of Thrones: The Card Game, you are free to explore the streets and alleys of the capital of the Seven Kingdoms without being bound to a linear set of events as played out in A Song of Ice and Fire.\n\nPit of Snakes takes you to the heart of King's Landing, where wise Maesters, noble Lords, and cunning Ladies spin their intrigues in pursuit of power with the continued exploration of the shadow keyword, first introduced in the Dance of Shadows cycle. Featuring new versions of key characters and a variety of cards to help you build a deck around The Seven trait, this Chapter Pack provides you with the tools you need to take your battles in Westeros to the next level. But be wary—the more power you gain, the greater target you become!\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 277419,
    "image": "https://cf.geekdo-images.com/azrnanPIw7bi0b0bllZHiQ__itemrep@2x/img/fe1qkJ4vq6URRMSpB_3HQ1OkJB0=/fit-in/492x600/filters:strip_icc()/pic4679316.jpg",
@@ -2288,12 +2118,7 @@
    "description": "Sands of Dorne is a deluxe expansion for A Game of Thrones: The Card Game, bringing House Martell squarely into the sunlight and giving them the cards they need to go toe-to-toe with any other faction in the game. Here, you'll find powerful new versions of House Martell's most iconic and dangerous characters, all intent on bloody revenge, including Doran Martell, The Red Viper, Ellaria Sand, Quentyn Martell, Nymeria Sand, and Areo Hotah. Every other faction in the game also receives two new non-loyal cards in this deluxe expansion, plus a brand-new agenda\n\nand an assortment of neutral plots.\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 245349,
    "image": "https://cf.geekdo-images.com/DUq-KHO7J_YR8QCQ7_PDLA__itemrep@2x/img/jWK-9mn4rghoPJPDL5JFv2yfxpo=/fit-in/492x600/filters:strip_icc()/pic3949188.jpg",
@@ -2349,12 +2174,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 247709,
    "image": "https://cf.geekdo-images.com/lM6m0OFhuaKN1-kwp7muog__itemrep@2x/img/E8sHPm-JzLfrZVQ4cFXPBr7MQP0=/fit-in/492x600/filters:strip_icc()/pic4025310.png",
@@ -2410,12 +2230,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 258136,
    "image": "https://cf.geekdo-images.com/V9SvTG3w7ZVFJhl4W_kgSQ__itemrep@2x/img/M7ySwR76_Mrzk1N1_6lXTcGrHTA=/fit-in/492x600/filters:strip_icc()/pic4271124.png",
@@ -2469,12 +2284,7 @@
    "description": "From the publisher's website:\n\nUnder the wounded pride, Will could sense something else in the older man. You could taste it; a nervous tension that came perilous close to fear.\n\n –George R.R. Martin, A Game of Thrones\n\nStart at the beginning of A Song of Ice and Fire with Taking the Black, the first Chapter Pack in the Westeros cycle for A Game of Thrones: The Card Game. As A Song of Ice and Fire begins, Westeros is at peace. But this deceptive calm will not long remain. Already, conflict between the Great Houses is on the horizon. You can take your place at the very beginning of the story with Taking the Black. In the Westeros cycle, the focus rests on the first book of A Song of Ice and Fire. Here, you’ll also find iconic characters like Renly Baratheon, the Hound, and Maester Luwin for the first time. You’ll also find four brand-new plot cards in this expansion, two neutral and two faction-specific. Begin your journey to the Iron Throne!",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 179601,
    "image": "https://cf.geekdo-images.com/T4clfs5BFX8jMg8VurWtIg__itemrep/img/JBMufXO4dReJ8vwI1jUaDvo47Go=/fit-in/246x300/filters:strip_icc()/pic2585466.png",
@@ -2529,12 +2339,7 @@
    "description": "The great battles of the War of the Five Kings have temporarily ceased, but the game of thrones is far from over. The Archmaester's Key is the first expansion of the \"Flight of Crows\" cycle for A Game of Thrones: The Card Game, and as the name implies, this cycle follows the key events of A Feast for Crows. The bestow keyword gathers strength, while other new cards provide incentives for the Great Houses to use Banners to work together.\n\nWith iconic characters like Daario Naharis and Mag the Mighty, The Archmaester's Key is the perfect beginning to a new cycle for A Game of Thrones: The Card Game!\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 236467,
    "image": "https://cf.geekdo-images.com/fZnvOo2oKC-M4xvZgKqqbA__itemrep@2x/img/Z1MakUILhd9rwQVZLT33FQa_AZk=/fit-in/492x600/filters:strip_icc()/pic3764185.png",
@@ -2587,12 +2392,7 @@
    "description": "The Blackwater is the fifth Chapter Pack in the King's Landing cycle for A Game of Thrones: The Card Game.\n\nThe King’s Landing cycle takes a new approach to the Game of Thrones LCG. Rather than following the plot of A Song of Ice and Fire, this cycle is centered around the capital of the seven kingdoms, allowing you to explore the world of Westeros more freely than ever before. Every Chapter Pack in this cycle features three copies each of twenty unique cards to strengthen your decks and help you embrace the deadly intrigues of A Song of Ice and Fire with the continued cultivation of the shadow keyword, first reintroduced in the Dance of Shadows cycle.\n\nYour journey to the capital of the seven kingdoms draws you beyond the city walls to explore the surrounding waterways that acted at the setting of the greatest battle in the War of the Five Kings. This battle was the making of many warriors, and you may elevate your own knights to the rank of Kingsguard if you deem them worthy. As shadows continue to creep in from the North, the Reach, and the streets of King's Landing itself, you may find that need more protection than ever if your House is to earn victory and claim the Iron…",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 282711,
    "image": "https://cf.geekdo-images.com/8yGTI2ekcJqg4nRRbd0cGQ__itemrep@2x/img/T8Npu19J1JTZi6gucVt-2pUBsJc=/fit-in/492x600/filters:strip_icc()/pic5005332.png",
@@ -2635,12 +2435,7 @@
    "description": "Description from the publisher:\n\nTake up arms with outlaws in The Brotherhood Without Banners, the sixth Chapter Pack of the \"Blood and Gold\" cycle for A Game of Thrones: The Card Game! As the cycle draws to a climactic conclusion, you have the chance to see the themes of the cycle more fully realized, with new economy cards and new support for the bestow keyword across all eight factions. Whether you're serving the Night's Watch with Donal Noye or leading the brotherhood with Beric Dondarrion, this expansion has plenty to offer, including a brand-new agenda inviting you to join the brotherhood without banners.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 228665,
    "image": "https://cf.geekdo-images.com/qXgtL9DWFBavjDiZXiJy-A__itemrep/img/LTb8LvKHJnUARnpYFT6EhJK12I8=/fit-in/246x300/filters:strip_icc()/pic3581387.png",
@@ -2691,12 +2486,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 245336,
    "image": "https://cf.geekdo-images.com/tFc-p1V7CnYd-wkiUjm6dA__itemrep@2x/img/aY0bQPPFcsX4sGznY-d3oKE8SwA=/fit-in/492x600/filters:strip_icc()/pic3948639.png",
@@ -2742,12 +2532,7 @@
    "description": "Description from the publisher:\n\nBloody plots consume the Seven Kingdoms as Daenerys Targaryen liberates Astapor in the manner of Old Valyria — with fire and blood! The Fall of Astapor is the third Chapter Pack in the \"Blood and Gold\" cycle for A Game of Thrones: The Card Game, continuing the saga of A Song of Ice and Fire into A Storm of Swords. Within this pack, you'll find more cards focusing on the new bestow keyword, powerful new economy, and the subtly growing influence of House Frey. You'll even have the chance to add iconic characters and locations to your deck, including Grey Worm, The Twins, and Theon Greyjoy.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226880,
    "image": "https://cf.geekdo-images.com/gOw1InaNiiJrp1m_oPUxsQ__itemrep@2x/img/fcQ4joExpDqQ76V5pPR09N1GgEQ=/fit-in/492x600/filters:strip_icc()/pic3539620.png",
@@ -2792,12 +2577,7 @@
    "description": "Description from the publisher:\n\n“I must have the gold cloaks. The City Watch is two thousand strong, sworn to defend the castle, the city, and the king's peace.”\n\n –George R.R. Martin, A Game of Thrones\n\nFollow the events of A Game of Thrones with The King's Peace, the third Chapter Pack in the Westeros cycle for A Game of Thrones: The Card Game. Eddard Stark has arrived at King's Landing to serve as the Hand of the King, but even as knights journey across Westeros to participate in the Tourney of the Hand, insidious characters gather in the shadows. Join battles and intrigues surrounding the tourney with memorable characters like Ser Rodrik Cassel, Ser Alliser Thorne, and Ser Gregor Clegane. Two new plots—one neutral and one loyal to House Baratheon—offer new deckbuilding opportunities and this Chapter Pack includes a brand-new agenda that’s sure to inspire entirely new types of decks.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 182995,
    "image": "https://cf.geekdo-images.com/L09L73RkIJyPhnX1MAVdjg__itemrep/img/xnPTyLJvMuh4gieYIh2QlVe-pT4=/fit-in/246x300/filters:strip_icc()/pic2644553.png",
@@ -2849,12 +2629,7 @@
    "description": "Prepare your armies for the long nights of winter with The March on Winterfell, the second Chapter Pack in the \"Dance of Shadows\" cycle for A Game of Thrones: The Card Game!\n\nThis Chapter Pack draws from the pages of A Dance with Dragons, and features more of the new Shadow mechanism that debuts in this cycle. With new cards to draw out your enemy's plans, you can safely wait in the wings until your moment to strike! But what will you sacrifice in pursuit of power?\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 253380,
    "image": "https://cf.geekdo-images.com/S6M9rguFHjwE0xjngLipiQ__itemrep@2x/img/4IojVH0GpOyaR3i3i3uh3D1wKrQ=/fit-in/492x600/filters:strip_icc()/pic4134953.png",
@@ -2900,12 +2675,7 @@
    "description": "Description from the publisher:\n\nWith The Red Wedding Chapter Pack for A Game of Thrones: The Card Game, you'll have the chance to continue the saga of A Storm of Swords with one of the most gut-wrenching and iconic moments of the entire series. Even as you walk among the fallen and the deadly power of House Frey continues to grow, you'll find new ways to spend and earn your gold, like the other expansions of the \"Blood and Gold\" cycle. With iconic characters like Ellaria Sand, Strong Belwas, Othell Yarwyck, and Walder Frey entering the game for the first time, The Red Wedding brings new horrors and schemes into every game.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 225567,
    "image": "https://cf.geekdo-images.com/7CTfmiplfdQ7n4fd9SVH8g__itemrep@2x/img/1eeUKyFah9jXbs5n2wbU7YzzHiw=/fit-in/492x600/filters:strip_icc()/pic3513617.png",
@@ -2953,12 +2723,7 @@
    "description": "Ancient evil awakens in the lands beyond the Wall. The last Targaryens bind their future to the Dothraki lord, Khal Drogo. From the heights of the Eyrie in the east to the heart of Casterly Rock in the west, the Great Houses of Westeros plot to increase their own power. Now, you can continue to follow the events of A Game of Thrones in The Road to Winterfell, the second Chapter Pack in the Westeros cycle! Like the other packs in this cycle, The Road to Winterfell is filled with iconic characters and locations from the first book in A Song of Ice and Fire. Here, you’ll meet iconic characters like Rakharo and Syrio Forel, and you’ll find a Targaryen attachment so powerful, it’s limited to one copy per deck! The Road to Winterfell also quickly expands the number of available plots with two new neutral plots and one plot loyal to House Lannister.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 181458,
    "image": "https://cf.geekdo-images.com/GwbEoCcWXC76imLVjKYsqg__itemrep/img/rKb8GTnEzXYmvfHaTcUFlSDdoBU=/fit-in/246x300/filters:strip_icc()/pic2613110.png",
@@ -3020,12 +2785,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 247710,
    "image": "https://cf.geekdo-images.com/sRcKWPN133XnnykosNLMIA__itemrep@2x/img/vDwmibbEGQEdNQGNKlduWO1V-Qc=/fit-in/492x600/filters:strip_icc()/pic4057302.png",
@@ -3079,12 +2839,7 @@
     "Nate French"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 294341,
    "image": "https://cf.geekdo-images.com/iCf-Zxc5dOnHJtK82MKFxg__itemrep@2x/img/UIvTDloUYFQjCccO_ZU8MMEfPps=/fit-in/492x600/filters:strip_icc()/pic5054473.png",
@@ -3135,12 +2890,7 @@
    "description": "From the publisher:\n\nWar wracks the Seven Kingdoms. Baratheon, Tyrell, Lannister, and Stark armies march into battle against each other, while Greyjoy raiders prey upon the coast and strike at undefended strongholds. Five kings have been crowned, and each will pursue his claim as long as he draws breath. Death is everywhere, in the gory aftermath of battles and the carnage wrought by pillaging soldiers. In the midst of all this tumult and destruction, one young girl receives a worn metal coin and first hears the fateful words: “Valar morghulis.”\n\nThere Is My Claim is the fourth Chapter Pack in the War of Five Kings cycle for A Game of Thrones: The Card Game, and it continues your journey through A Clash of Kings, the second book in George R.R. Martin’s epic saga. Here, you can evoke the turmoil of the War of the Five Kings with plenty of new cards that interact with Kings, even as the winter winds rise and the Summer and Winter plot traits become more important to your strategy. Finally, you also gain access to powerful new unique characters, including Jojen Reed, Pyat Pree, Jaqen H’ghar, and new versions of Stannis Baratheon and Aeron Damphair.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 204029,
    "image": "https://cf.geekdo-images.com/UZRAZlCfzjDXUsfS2guYYA__itemrep@2x/img/BNPwjOVm1CjiUoup00Bs9Tz4Pzs=/fit-in/492x600/filters:strip_icc()/pic3239107.png",
@@ -3193,12 +2943,7 @@
    "description": "Description from the publisher:\n\n\"Every time she looked at Ser Ilyn Payne, she shivered. He made her feel as though something dead was slithering over her naked skin.\" – George R.R. Martin, A Game of Thrones\n\nTensions in King's Landing have reached their breaking point. In the aftermath of King Robert’s death, Eddard Stark makes his move to unveil the true lineage of Cersei Lannister’s children—and in the process, he sets in motion the events that will drown the Seven Kingdoms in blood. Even as Eddard makes his final gambit and the Lannisters plan their reprisal, Daenerys Targaryen forges her future in Khal Drogo’s funeral pyre. It is a time of merciless, sudden death and life that springs from the ashes.\n\nAdvance to the explosive conclusion of the first book of A Song of Ice and Fire with True Steel, the sixth Chapter Pack of the Westeros cycle for A Game of Thrones: The Card Game (Second Edition). Here, you'll find a host of recognizable characters entering the card game for the first time, including Jhogo, Tyene Sand, Septa Mordane, and Ser Barristan Selmy. This pack also introduces two new neutral plots to the game, quickly expanding your options for every deck and introducing…",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 193060,
    "image": "https://cf.geekdo-images.com/1YOptTy1AwLo697u-oyP3A__itemrep/img/8CiVzJtnL6GBqfr6-jeE7fxfk3k=/fit-in/246x300/filters:strip_icc()/pic2872290.png",
@@ -3253,12 +2998,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 218174,
    "image": "https://cf.geekdo-images.com/ZXYbVq_dOzMmwo-w_0wR1A__itemrep/img/anC_j-BnPvKzky3WzBgnv77iXQ4=/fit-in/246x300/filters:strip_icc()/pic3371685.png",
@@ -3310,12 +3050,7 @@
    "description": "Description from the publisher:\n\nTravel north and join the Night’s Watch with Watchers on the Wall! Within this expansion, the Night’s Watch explores new and existing themes, as you find new ways to defend the Wall, new ways to conscript your opponent’s characters, and plenty of rewards for focusing on the three branches of the Night’s Watch: Rangers, Stewards, and Builders. Along with the nameless men who swell the ranks of the Night’s Watch, you’ll find new versions of iconic characters from throughout the saga, including Jon Snow, Old Bear Mormont, Maester Aemon, and Samwell Tarly.\n\nAnd although the focus of this expansion rests on the Night’s Watch, you’ll find two new non-loyal cards for every other faction, expanding your options for any alliance. You’ll also receive an assortment of neutral cards portraying the Night’s Watch’s most common enemies, the Wildlings. With seven new plots (one loyal to the Night’s Watch) rounding out the expansion, Watchers on the Wall offers new pathways to victory for every deck.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 217960,
    "image": "https://cf.geekdo-images.com/yL4PFzxMHDfOT276KMz6qw__itemrep@2x/img/GSmreXAdTl_jhFk0X4VuErPASDk=/fit-in/492x600/filters:strip_icc()/pic3362651.jpg",
@@ -3369,12 +3104,7 @@
     "Nate French"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 169255,
-     "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)"
-    }
-   ],
+   "expands": [],
    "h": 286,
    "id": 189169,
    "image": "https://cf.geekdo-images.com/QqT01uNp_Fc7g7kMFKSqAA__itemrep/img/D_oxuCi5SHVBDmICaytdz_YjFLY=/fit-in/246x300/filters:strip_icc()/pic2796225.png",
@@ -3784,7 +3514,7 @@
    "myRating": null,
    "name": "Alchimisti",
    "originalName": "Alchemists",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": true,
@@ -3833,12 +3563,7 @@
     "Matúš Kotry"
    ],
    "edition": "German edition · German · Czech Games Edition (CGE)",
-   "expands": [
-    {
-     "id": 161970,
-     "name": "Alchimisti"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 167849,
    "image": "https://cf.geekdo-images.com/q2C9dhznFDd9EJfncQc8QA__itemrep/img/aFptdG9VSEi_DxWdqNmooKiQQ5c=/fit-in/246x300/filters:strip_icc()/pic2584709.jpg",
@@ -3993,7 +3718,7 @@
    "myRating": 8.0,
    "name": "Alta Tensione",
    "originalName": "Power Grid",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 120,
    "plays": 1,
    "publishers": [
@@ -4093,12 +3818,7 @@
     "Friedemann Friese"
    ],
    "edition": "Italian first edition · Italian · Stratelibri",
-   "expands": [
-    {
-     "id": 2651,
-     "name": "Alta Tensione"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 19319,
    "image": "https://cf.geekdo-images.com/xApaaV3xEdtqiJSrfmSrPQ__itemrep@2x/img/lOQlwoCn_hF0OoPB-tTt9FaqjDk=/fit-in/492x600/filters:strip_icc()/pic1553323.jpg",
@@ -4967,12 +4687,7 @@
     "Isaac Vega"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 167400,
-     "name": "Ashes: La Rinascita dei Phoenixborn"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 201900,
    "image": "https://cf.geekdo-images.com/OYetF1VOqzBSKKJNy-WjWg__itemrep@2x/img/AiqdLiXmLrUJ8lPOld8Sn53sd_E=/fit-in/492x600/filters:strip_icc()/pic5867159.png",
@@ -5021,12 +4736,7 @@
     "Isaac Vega"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 167400,
-     "name": "Ashes: La Rinascita dei Phoenixborn"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 189634,
    "image": "https://cf.geekdo-images.com/0UfVEiifQux8t4CSGlRmaQ__itemrep@2x/img/5B8CPob_DxYblXvqO8y2VSklA48=/fit-in/492x600/filters:strip_icc()/pic5867158.png",
@@ -5076,12 +4786,7 @@
     "Isaac Vega"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 167400,
-     "name": "Ashes: La Rinascita dei Phoenixborn"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226915,
    "image": "https://cf.geekdo-images.com/tfGnVV4GL0AGQzMrTM6JjQ__itemrep@2x/img/cZeBa8GnPFzrDpv8MVZ5a5XvkrU=/fit-in/492x600/filters:strip_icc()/pic5867164.png",
@@ -5127,12 +4832,7 @@
     "Isaac Vega"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 167400,
-     "name": "Ashes: La Rinascita dei Phoenixborn"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 201899,
    "image": "https://cf.geekdo-images.com/5tN-71zgpy8oFb3gUe1m4Q__itemrep@2x/img/IZss8s2kdGU2bzdpWP_TXfPdcBI=/fit-in/492x600/filters:strip_icc()/pic5867162.png",
@@ -5179,12 +4879,7 @@
     "Isaac Vega"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 167400,
-     "name": "Ashes: La Rinascita dei Phoenixborn"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226916,
    "image": "https://cf.geekdo-images.com/S9-sVxyVQ5WwDNx3iCgDCg__itemrep@2x/img/uBp5ImcWlxSNAWvupB-DMuSfQZg=/fit-in/492x600/filters:strip_icc()/pic5867163.png",
@@ -5258,7 +4953,7 @@
    "myRating": null,
    "name": "Ashes: La Rinascita dei Phoenixborn",
    "originalName": "Ashes Reborn: Rise of the Phoenixborn",
-   "ownedExpansions": 5,
+   "ownedExpansions": 0,
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -5924,12 +5619,7 @@
     "Tim Uren"
    ],
    "edition": "Italian edition · Italian · Stratelibri",
-   "expands": [
-    {
-     "id": 37111,
-     "name": "Battlestar Galactica: il gioco da tavolo"
-    }
-   ],
+   "expands": [],
    "h": 246,
    "id": 43539,
    "image": "https://cf.geekdo-images.com/gIFO3gX6AxkdLZMK2vfZtA__itemrep/img/ujoB_AXjHSYDobbQ7TiUoXN52eY=/fit-in/246x300/filters:strip_icc()/pic512021.jpg",
@@ -6023,7 +5713,7 @@
    "myRating": 8.0,
    "name": "Battlestar Galactica: il gioco da tavolo",
    "originalName": "Battlestar Galactica: The Board Game",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 180,
    "plays": 0,
    "publishers": [
@@ -6227,7 +5917,7 @@
    "myRating": 8.5,
    "name": "Betrayal at House on the Hill",
    "originalName": "Betrayal at House on the Hill",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 60,
    "plays": 2,
    "publishers": [
@@ -6279,12 +5969,7 @@
     "Aviva Schecterson"
    ],
    "edition": "English edition · English · Avalon Hill; Hasbro; Lone Shark Games; Wizards of the Coast",
-   "expands": [
-    {
-     "id": 10547,
-     "name": "Betrayal at House on the Hill"
-    }
-   ],
+   "expands": [],
    "h": 499,
    "id": 198452,
    "image": "https://cf.geekdo-images.com/uFaPB9DYs2FUqQepaugnwg__itemrep@2x/img/TaPGECa6ib0ZxgCETK8aP8fmMM4=/fit-in/492x600/filters:strip_icc()/pic4084221.jpg",
@@ -6573,7 +6258,7 @@
    "myRating": 7.0,
    "name": "Bonsai",
    "originalName": "Bonsai",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -6623,12 +6308,7 @@
     "Martino Chiacchiera"
    ],
    "edition": "English/Italian edition · English; Italian · DV Games",
-   "expands": [
-    {
-     "id": 366994,
-     "name": "Bonsai"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 394083,
    "image": "https://cf.geekdo-images.com/mCbdVoumbaqPz0anBJ88BQ__itemrep@2x/img/9asX4UauIEXo8oqBib6dh-V4zNg=/fit-in/492x600/filters:strip_icc()/pic7612119.jpg",
@@ -6688,12 +6368,7 @@
     "Martino Chiacchiera"
    ],
    "edition": "Italian edition · Italian · DV Games",
-   "expands": [
-    {
-     "id": 366994,
-     "name": "Bonsai"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 422336,
    "image": "https://cf.geekdo-images.com/1AkYYGFNPDV1OP-NE0vxnA__itemrep@2x/img/_U0qDskxKX06h_pNlZfUNpq-kx4=/fit-in/492x600/filters:strip_icc()/pic8241777.png",
@@ -6777,7 +6452,7 @@
    "myRating": null,
    "name": "Boss Monster 2: Il livello successivo",
    "originalName": "Boss Monster 2: The Next Level",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -6843,7 +6518,7 @@
    "myRating": null,
    "name": "Boss Monster: Costruisci il tuo dungeon",
    "originalName": "Boss Monster: The Dungeon Building Card Game",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -6879,12 +6554,7 @@
    "description": "Promo Spell Card from Game Night Kit #1 from Brotherwise Games.\n\nIt is now part of the expansion Vault of Villains.\n\nCard Text:\n\nFinal Form!\n\nGive the last Room in your dungeon +2 until end of turn.\n\nOR\n\nIf any opponent has [8 Souls] or more, give the last Room in your dungeon +4 until end of turn.",
    "designers": [],
    "edition": "English edition · English · Brotherwise Games",
-   "expands": [
-    {
-     "id": 174973,
-     "name": "Boss Monster 2: Il livello successivo"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 206997,
    "image": "https://cf.geekdo-images.com/JwbeA6Xcg5rLMin4WuSMLA__itemrep@2x/img/FDn312ucahiYAcXLR-i6mr84FCM=/fit-in/492x600/filters:strip_icc()/pic3145333.jpg",
@@ -6939,12 +6609,7 @@
     "Christopher O'Neal"
    ],
    "edition": "Italian edition · Italian · Fever Games",
-   "expands": [
-    {
-     "id": 174973,
-     "name": "Boss Monster 2: Il livello successivo"
-    }
-   ],
+   "expands": [],
    "h": 246,
    "id": 133772,
    "image": "https://cf.geekdo-images.com/sw5qHsGsy7CGsh-7l1MH9Q__itemrep/img/WHek-DnYZ_ENvd5nMOwolYKJvKs=/fit-in/246x300/filters:strip_icc()/pic1849598.jpg",
@@ -7201,7 +6866,7 @@
    "myRating": 9.0,
    "name": "Canvas",
    "originalName": "Canvas",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -7254,12 +6919,7 @@
     "Andrew Nerger"
    ],
    "edition": "Italian edition · Italian · Road To Infamy Games (R2i Games)",
-   "expands": [
-    {
-     "id": 290236,
-     "name": "Canvas"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 335172,
    "image": "https://cf.geekdo-images.com/5AnrD2v2DD_U7A9Rlwzt3g__itemrep@2x/img/2K96oa3kFmz2NJKDOG5a_qm_s9M=/fit-in/492x600/filters:strip_icc()/pic6090493.jpg",
@@ -7411,7 +7071,7 @@
    "myRating": 10.0,
    "name": "Carcassonne",
    "originalName": "Carcassonne",
-   "ownedExpansions": 12,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -7584,12 +7244,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Rio Grande English first edition · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 31784,
    "image": "https://cf.geekdo-images.com/QGzPcd0qfC4VV4aQNj-Oug__itemrep@2x/img/qlZe_x0LpQ9NZGH9_-sBjLDSJHM=/fit-in/492x600/filters:strip_icc()/pic3513934.jpg",
@@ -7651,12 +7306,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Venice Connection Italian edition · Italian · Hans im Glück; Stupor Mundi; Venice Connection",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 66646,
    "image": "https://cf.geekdo-images.com/L4k50H_P0oLJaqvTrb8ENA__itemrep@2x/img/EltgrVZ9Ioo33kCtEljzGx_Jzuc=/fit-in/492x600/filters:strip_icc()/pic4134883.jpg",
@@ -7716,12 +7366,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "English edition · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 38855,
    "image": "https://cf.geekdo-images.com/0zauOKpBtngNQVAIob8fFg__itemrep@2x/img/0qz7Yt7jjoPznVCSi3SmlawsBGE=/fit-in/492x600/filters:strip_icc()/pic471370.jpg",
@@ -7779,12 +7424,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "English edition · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 120686,
    "image": "https://cf.geekdo-images.com/UlIwrdlzOMgzdXBPxzmVNg__itemrep@2x/img/Rt6_J0lzhsr9pH0Le_KwCwkmeTY=/fit-in/492x600/filters:strip_icc()/pic2250757.jpg",
@@ -7842,12 +7482,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Spielbox German edition · German · W. Nostheide Verlag GmbH",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 311,
    "id": 130998,
    "image": "https://cf.geekdo-images.com/xLBgLz5b7AEU0bRDH8dm1w__itemrep@2x/img/xkAoFsXe0QeyqgffF1gawKcIFlY=/fit-in/492x600/filters:strip_icc()/pic1443354.jpg",
@@ -7904,12 +7539,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "German first edition · German · Hans im Glück",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 131676,
    "image": "https://cf.geekdo-images.com/qoEz1gCO2WCyzdYG1rnJRg__itemrep@2x/img/e49vT6jwB7sq7MxyQ1SX-YtYopo=/fit-in/492x600/filters:strip_icc()/pic1441224.jpg",
@@ -7964,12 +7594,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Spielbox German first edition · German · W. Nostheide Verlag GmbH",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 166052,
    "image": "https://cf.geekdo-images.com/sALi2EGgSn0j6N4Orp5IUg__itemrep@2x/img/j33i2D56IY2W3ZS-er6z18At8MU=/fit-in/492x600/filters:strip_icc()/pic2269331.jpg",
@@ -8029,12 +7654,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "English edition · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 121,
    "id": 7707,
    "image": "https://cf.geekdo-images.com/BAlcBH69P0nSLkNsTrX31Q__itemrep/img/3MxyntksxqWfUSlFhzjqkD7nx4s=/fit-in/246x300/filters:strip_icc()/pic137041.jpg",
@@ -8100,12 +7720,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Italian edition · Italian · Venice Connection",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 2993,
    "image": "https://cf.geekdo-images.com/9W3DkpIZwD-CrQrzfewG1Q__itemrep@2x/img/jlFiZ8-f4c3iMXOy-T8QbgwjLtc=/fit-in/492x600/filters:strip_icc()/pic9210962.jpg",
@@ -8165,12 +7780,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "English first edition · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 243,
    "id": 118618,
    "image": "https://cf.geekdo-images.com/aUk5s9uRw0wR4HdQm734hA__itemrep/img/NJGCQd8pKDvQ3dSg2XJjSGU8JqQ=/fit-in/246x300/filters:strip_icc()/pic1949616.jpg",
@@ -8233,12 +7843,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "Italian second edition · Italian · Giochi Uniti; Hans im Glück; Schmidt Spiele",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 153773,
    "image": "https://cf.geekdo-images.com/rhAsOwAB61sx8kXsBICmfQ__itemrep@2x/img/w9AGHzT5W3rDOr3JkvKkYOLXQ28=/fit-in/492x600/filters:strip_icc()/pic9210980.jpg",
@@ -8718,12 +8323,7 @@
     "Klaus-Jürgen Wrede"
    ],
    "edition": "English edition 2005 · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 822,
-     "name": "Carcassonne"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 15158,
    "image": "https://cf.geekdo-images.com/qqsCzGyFGZVGklj3q5jNkQ__itemrep@2x/img/iNqObOz2arPE1jwjcehd3ev4BVA=/fit-in/492x600/filters:strip_icc()/pic9210965.jpg",
@@ -9708,7 +9308,7 @@
    "myRating": null,
    "name": "Chronicles of Crime",
    "originalName": "Chronicles of Crime",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -9772,7 +9372,7 @@
    "myRating": null,
    "name": "Chronicles of Crime: 1400",
    "originalName": "Chronicles of Crime: 1400",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -9838,7 +9438,7 @@
    "myRating": null,
    "name": "Chronicles of Crime: 1900",
    "originalName": "Chronicles of Crime: 1900",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -9901,7 +9501,7 @@
    "myRating": null,
    "name": "Chronicles of Crime: 2400",
    "originalName": "Chronicles of Crime: 2400",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -9946,12 +9546,7 @@
     "David Cicurel"
    ],
    "edition": "English edition · English · Lucky Duck Games",
-   "expands": [
-    {
-     "id": 239188,
-     "name": "Chronicles of Crime"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 249811,
    "image": "https://cf.geekdo-images.com/vdF_R19qcbt55ERQ9ngxpA__itemrep@2x/img/GBOu60oOjAlYa2I2kPgYvsnSbcg=/fit-in/492x600/filters:strip_icc()/pic5235395.png",
@@ -10018,12 +9613,7 @@
     "Wojciech Grajkowski"
    ],
    "edition": "Kickstarter edition · English · Lucky Duck Games",
-   "expands": [
-    {
-     "id": 300300,
-     "name": "Chronicles of Crime: 1400"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 313301,
    "image": "https://cf.geekdo-images.com/opEwknoTQRx-6hpXfD9ZiQ__itemrep@2x/img/Dg8lFCEBG7ZehjC6WbeIlUvGk94=/fit-in/492x600/filters:strip_icc()/pic5672781.jpg",
@@ -10087,12 +9677,7 @@
     "Ghislain Masson"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 239188,
-     "name": "Chronicles of Crime"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 258089,
    "image": "https://cf.geekdo-images.com/knLdhrBn1HtX4KVc8BsmWA__itemrep@2x/img/-zgPxCiow5mYV31iC0DD1NObHyo=/fit-in/492x600/filters:strip_icc()/pic4261484.jpg",
@@ -10176,7 +9761,7 @@
    "myRating": 8.5,
    "name": "Chrononauts",
    "originalName": "Chrononauts",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -10221,12 +9806,7 @@
     "Andrew Looney"
    ],
    "edition": "English first edition · English · Looney Labs",
-   "expands": [
-    {
-     "id": 815,
-     "name": "Chrononauts"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 53708,
    "image": "https://cf.geekdo-images.com/N2mx-IMmwN1gUhR2twvE8Q__itemrep@2x/img/Sz5ttQmZnYy9Mie81b11C3xKrRU=/fit-in/492x600/filters:strip_icc()/pic627182.jpg",
@@ -10444,7 +10024,7 @@
    "myRating": 9.5,
    "name": "Coloni di Catan, I",
    "originalName": "Catan",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -11074,7 +10654,7 @@
    "myRating": null,
    "name": "DC Deck-Building Game",
    "originalName": "DC Deck-Building Game",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -11117,12 +10697,7 @@
     "Matt Hyra"
    ],
    "edition": "English edition · English · Cryptozoic Entertainment",
-   "expands": [
-    {
-     "id": 125678,
-     "name": "DC Deck-Building Game"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 155428,
    "image": "https://cf.geekdo-images.com/IICDHEdnTEGr9CBqLTNwhA__itemrep@2x/img/HKJxXdXFy7f2c-vx3_Q3YDaC6H0=/fit-in/492x600/filters:strip_icc()/pic2196029.jpg",
@@ -11499,12 +11074,7 @@
     "Ignacy Trzewiczek"
    ],
    "edition": "English edition · English · Portal Games",
-   "expands": [
-    {
-     "id": 223321,
-     "name": "Detective: sulla scena del crimine"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 289917,
    "image": "https://cf.geekdo-images.com/vmpsjnTI5yUQp5z-U_3KjA__itemrep@2x/img/Z-W9pbDbAmEngrb9kEYw21QiUw0=/fit-in/492x600/filters:strip_icc()/pic4968294.png",
@@ -11561,12 +11131,7 @@
     "Ignacy Trzewiczek"
    ],
    "edition": "English edition · English · Portal Games",
-   "expands": [
-    {
-     "id": 223321,
-     "name": "Detective: sulla scena del crimine"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 264414,
    "image": "https://cf.geekdo-images.com/aQ9VfhyNWtbypPk2lrEP8Q__itemrep@2x/img/lZMIw2JKuB0EPAFS3EHc9zLg1JQ=/fit-in/492x600/filters:strip_icc()/pic4647435.jpg",
@@ -11620,12 +11185,7 @@
     "Mateusz Zaród"
    ],
    "edition": "Italian edition · Italian · Pendragon Game Studio",
-   "expands": [
-    {
-     "id": 223321,
-     "name": "Detective: sulla scena del crimine"
-    }
-   ],
+   "expands": [],
    "h": 245,
    "id": 264005,
    "image": "https://cf.geekdo-images.com/nv82Bnqg398DvpKNT9yXvg__itemrep/img/Na0r9XmWIr5tmM0S_5zoMJXHe0Y=/fit-in/246x300/filters:strip_icc()/pic4543716.jpg",
@@ -11706,7 +11266,7 @@
    "myRating": null,
    "name": "Detective: sulla scena del crimine",
    "originalName": "Detective: A Modern Crime Board Game",
-   "ownedExpansions": 4,
+   "ownedExpansions": 0,
    "playingTime": 180,
    "plays": 0,
    "publishers": [
@@ -11752,12 +11312,7 @@
     "Ignacy Trzewiczek"
    ],
    "edition": "Italian edition · Italian · Pendragon Game Studio",
-   "expands": [
-    {
-     "id": 223321,
-     "name": "Detective: sulla scena del crimine"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 262328,
    "image": "https://cf.geekdo-images.com/U_WOMNnoJquimu1rRUmLAA__itemrep@2x/img/vIxyxSLCscz-h6TkiQMg9EsB_ns=/fit-in/492x600/filters:strip_icc()/pic4344543.jpg",
@@ -12025,12 +11580,7 @@
     "Klaus Teuber"
    ],
    "edition": "German third edition with KOSMOS logo on the left · German · KOSMOS",
-   "expands": [
-    {
-     "id": 13,
-     "name": "Coloni di Catan, I"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 2807,
    "image": "https://cf.geekdo-images.com/tsDqjx3IqOl4r613Qh6-zQ__itemrep@2x/img/YYXsJLWz9B68LHmId7VseiuLwYQ=/fit-in/492x600/filters:strip_icc()/pic8828033.jpg",
@@ -12589,12 +12139,7 @@
     "Jean-Louis Roubira"
    ],
    "edition": "Libellud multilingual edition 2012 · Czech; Dutch; English; French; German; Greek; Italian; Japanese; Polish; Portuguese; Spanish · Libellud",
-   "expands": [
-    {
-     "id": 92828,
-     "name": "Dixit: Odyssey"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 55660,
    "image": "https://cf.geekdo-images.com/ZR-ItLX9FNMuCi-j0EwUng__itemrep/img/XsVH2fGATq_dxYL8LK8GHkTnGD8=/fit-in/246x300/filters:strip_icc()/pic1632141.jpg",
@@ -12669,7 +12214,7 @@
    "myRating": 8.0,
    "name": "Dixit: Odyssey",
    "originalName": "Dixit: Odyssey",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -12933,7 +12478,7 @@
    "myRating": 10.0,
    "name": "Dominion",
    "originalName": "Dominion",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 7,
    "publishers": [
@@ -12979,12 +12524,7 @@
     "Donald X. Vaccarino"
    ],
    "edition": "English edition, first printing · English · Rio Grande Games",
-   "expands": [
-    {
-     "id": 36218,
-     "name": "Dominion"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 66098,
    "image": "https://cf.geekdo-images.com/mwz6KkKz5F_NtmGtZKTwxQ__itemrep@2x/img/BrBVVg3I7cnGp0qziA5MioBlFuk=/fit-in/492x600/filters:strip_icc()/pic698779.jpg",
@@ -13065,7 +12605,7 @@
    "myRating": 10.0,
    "name": "Dominion: Intrigo",
    "originalName": "Dominion: Intrigue",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 3,
    "publishers": [
@@ -13112,12 +12652,7 @@
     "Donald X. Vaccarino"
    ],
    "edition": "Italian edition · Italian · Stupor Mundi",
-   "expands": [
-    {
-     "id": 36218,
-     "name": "Dominion"
-    }
-   ],
+   "expands": [],
    "h": 493,
    "id": 51811,
    "image": "https://cf.geekdo-images.com/n1_bOankhLYghTFscRAG8A__itemrep@2x/img/6NaqqYbegC51adRR_YzOK0wTrL0=/fit-in/492x600/filters:strip_icc()/pic543471.jpg",
@@ -13601,7 +13136,7 @@
    "myRating": null,
    "name": "Dungeon Bazar",
    "originalName": "Dungeon Bazar",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 50,
    "plays": 0,
    "publishers": [
@@ -13642,12 +13177,7 @@
     "Daniele Tascini"
    ],
    "edition": "Dungeon Bazar Merchant Tile · English · Cranio Creations",
-   "expands": [
-    {
-     "id": 160608,
-     "name": "Dungeon Bazar"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 170193,
    "image": "https://cf.geekdo-images.com/MdQPRLkbq5I7xN9VOl_I7Q__itemrep/img/KL8Stjsdn3WnyV0COiLwXdj5ikE=/fit-in/246x300/filters:strip_icc()/pic2336122.jpg",
@@ -13722,7 +13252,7 @@
    "myRating": null,
    "name": "Dungeon Drop Deluxe",
    "originalName": "Dungeon Drop",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -13762,12 +13292,7 @@
    "description": "They may look tasty, but you can't eat them!\n\nWhat more appropriate monster could we add to Dungeon Drop than one that's actually a cube?! Watch in horror as \"Jigglin\" gobbles up nearby treasure, and then enjoy slicing him up to claim your loots! This mini-expansion includes 2 glorious cubes of gelatinous fun and associated rules. Squick squick!\n\n—description from the publisher\n\nOriginally included in the Kickstarter Deluxe version of Dungeon Drop.",
    "designers": [],
    "edition": "English edition · English · Phase Shift Games",
-   "expands": [
-    {
-     "id": 262208,
-     "name": "Dungeon Drop Deluxe"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 315908,
    "image": "https://cf.geekdo-images.com/xq0s8gxgsMcuvTqgK0tBiA__itemrep@2x/img/NNxgwROejZWAs4KeKDtZL5bvv-0=/fit-in/492x600/filters:strip_icc()/pic5674237.png",
@@ -13819,12 +13344,7 @@
    "description": "This Dungeon Drop mini-expansion incorporates six of the best ideas collected from the community. Roll at the start of each new game to see exactly what strange effects these cubes will have for that dungeon!\n\n—description from the publisher\n\nOriginally included as part of the Kickstarter Deluxe version of Dungeon Drop.",
    "designers": [],
    "edition": "English edition · English · Phase Shift Games",
-   "expands": [
-    {
-     "id": 262208,
-     "name": "Dungeon Drop Deluxe"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 315948,
    "image": "https://cf.geekdo-images.com/_7rv2iP6dSjCQ8lfqn_0iA__itemrep@2x/img/8krvjT-ujSAZ6tGII3G3jbFpCKE=/fit-in/492x600/filters:strip_icc()/pic5674239.png",
@@ -14764,7 +14284,7 @@
    "myRating": null,
    "name": "Escape Room: il gioco",
    "originalName": "Escape Room: The Game",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -14803,12 +14323,7 @@
    "description": "Expansion for Escape Room: The Game. In this escape room you have to try to escape a scary theme park.\n\nContent:\n\n 3 envelopes with game boards and various items\n 8 hint cards\n\nYou need the following parts from the base game:\n\n Chrono Decoder\n 16 keys\n Hint Decoder\n Rope from Nuclear Countdown room\n Rules",
    "designers": [],
    "edition": "Italian edition · Italian · Cranio Creations",
-   "expands": [
-    {
-     "id": 204836,
-     "name": "Escape Room: il gioco"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 216961,
    "image": "https://cf.geekdo-images.com/s1V6QAwqEk2Az6EOZ7xKWg__itemrep@2x/img/xiFz--1xGOth8cU8FG7WP3Z6moI=/fit-in/492x600/filters:strip_icc()/pic3355356.jpg",
@@ -14864,12 +14379,7 @@
    "description": "Expansion for Escape Room The Game. In this escape room you have to solve a murder case.\n\nContent:\n\n- 3 envelopes with game boards and various items\n\n- 8 hint cards\n\nYou need the following parts from the base game:\n\n- Chrono Decoder\n\n- 16 keys\n\n- Hint Decoder\n\n- Rope from Nuclear Countdown room\n\n- Mirror (Virus)\n\n- Rules",
    "designers": [],
    "edition": "Italian edition · Italian · Cranio Creations",
-   "expands": [
-    {
-     "id": 204836,
-     "name": "Escape Room: il gioco"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 215409,
    "image": "https://cf.geekdo-images.com/oy8ZekyCy-t-IT0uv7woWg__itemrep@2x/img/28GQumJeQsZ8WFzSTpLWomsOLDs=/fit-in/492x600/filters:strip_icc()/pic3333939.jpg",
@@ -15061,7 +14571,7 @@
    "myRating": null,
    "name": "Everdell",
    "originalName": "Everdell",
-   "ownedExpansions": 6,
+   "ownedExpansions": 0,
    "playingTime": 80,
    "plays": 0,
    "publishers": [
@@ -15105,12 +14615,7 @@
     "James A. Wilson"
    ],
    "edition": "Italian edition · Italian · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 289057,
    "image": "https://cf.geekdo-images.com/3hQslNpNF7-UammLravx7w__itemrep@2x/img/XTGF0ANEyBzRO7Z_ndxh3L8m0Vs=/fit-in/492x600/filters:strip_icc()/pic4950729.png",
@@ -15194,7 +14699,7 @@
    "myRating": null,
    "name": "Everdell: Collector's Edition",
    "originalName": "Everdell: Collector's Edition",
-   "ownedExpansions": 5,
+   "ownedExpansions": 0,
    "playingTime": 80,
    "plays": 0,
    "publishers": [
@@ -15236,12 +14741,7 @@
     "James A. Wilson"
    ],
    "edition": "English first edition · English · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 289405,
    "image": "https://cf.geekdo-images.com/gC6tGd00qmSZpwriO3Znhg__itemrep@2x/img/iIhEAaxOI-cInkIcwQ8wmCEHz-Y=/fit-in/492x600/filters:strip_icc()/pic5010549.jpg",
@@ -15302,12 +14802,7 @@
     "James A. Wilson"
    ],
    "edition": "English edition · English · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 332397,
    "image": "https://cf.geekdo-images.com/6idBdV7k5jGCB_5FQS70yg__itemrep@2x/img/i_GEn3rryO1dJOZjF5Y1APblKqY=/fit-in/492x600/filters:strip_icc()/pic6024465.png",
@@ -15370,12 +14865,7 @@
     "James A. Wilson"
    ],
    "edition": "English edition · English · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 332390,
    "image": "https://cf.geekdo-images.com/ISf4EWo9-f2XFhYNi6MAvQ__itemrep@2x/img/18iubuj3wPzGXEytjYsF9fLxl6c=/fit-in/492x600/filters:strip_icc()/pic6010431.png",
@@ -15432,12 +14922,7 @@
     "James A. Wilson"
    ],
    "edition": "English first edition · English · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 259996,
    "image": "https://cf.geekdo-images.com/vg4eDYz27RMPdvU5tjRCzQ__itemrep@2x/img/ZEGS3jv_57EjgnYf3HW_vAZncg4=/fit-in/492x600/filters:strip_icc()/pic4299282.jpg",
@@ -15500,12 +14985,7 @@
     "James A. Wilson"
    ],
    "edition": "English standard edition · English · Starling Games (II)",
-   "expands": [
-    {
-     "id": 199792,
-     "name": "Everdell"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 289056,
    "image": "https://cf.geekdo-images.com/ZshJNf6B9Cui1lLf-S-FcA__itemrep@2x/img/WU9tjP9eAoFNIKAi2Jezq3_cIhE=/fit-in/492x600/filters:strip_icc()/pic4950750.jpg",
@@ -16103,7 +15583,7 @@
    "myRating": null,
    "name": "Forest Shuffle",
    "originalName": "Forest Shuffle",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -16157,12 +15637,7 @@
     "Kosch"
    ],
    "edition": "Italian edition · Italian · Lookout Games",
-   "expands": [
-    {
-     "id": 391163,
-     "name": "Forest Shuffle"
-    }
-   ],
+   "expands": [],
    "h": 489,
    "id": 424129,
    "image": "https://cf.geekdo-images.com/JUyOlnQ036W55OVWCcOrUg__itemrep@2x/img/JGpr9N-QeBR444bG2DD1VZK2S9E=/fit-in/492x600/filters:strip_icc()/pic8357351.jpg",
@@ -16676,7 +16151,7 @@
    "myRating": null,
    "name": "Hansa Teutonica",
    "originalName": "Hansa Teutonica",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -16717,12 +16192,7 @@
     "Andreas Steding"
    ],
    "edition": "English/French/German edition · English; French; German · Argentum Verlag",
-   "expands": [
-    {
-     "id": 43015,
-     "name": "Hansa Teutonica"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 162179,
    "image": "https://cf.geekdo-images.com/1v6lwlpKcfoWrPVVEA2Wtw__itemrep@2x/img/eGbTIabhP6DRegJmrcPpsqZXbUw=/fit-in/492x600/filters:strip_icc()/pic7011940.jpg",
@@ -16778,12 +16248,7 @@
     "Andreas Steding"
    ],
    "edition": "English/German first edition · English; German · Argentum Verlag; Z-Man Games",
-   "expands": [
-    {
-     "id": 43015,
-     "name": "Hansa Teutonica"
-    }
-   ],
+   "expands": [],
    "h": 239,
    "id": 83404,
    "image": "https://cf.geekdo-images.com/nSUNO85OekVLW86aqnSNvw__itemrep@2x/img/bdiismTL9RsSF9jSw3RW_mJG1fQ=/fit-in/492x600/filters:strip_icc()/pic838025.jpg",
@@ -16939,7 +16404,7 @@
    "myRating": null,
    "name": "Hens",
    "originalName": "Hens",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -16988,12 +16453,7 @@
     "Giampaolo Razzino"
    ],
    "edition": "English/Italian edition · English; Italian · Little Rocket Games",
-   "expands": [
-    {
-     "id": 348447,
-     "name": "Hens"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 443826,
    "image": "https://cf.geekdo-images.com/ybMZgxIBC9Xv0-fC-dFZOA__itemrep@2x/img/188mgnpQIzWHRMlmxEObuqHeRtI=/fit-in/492x600/filters:strip_icc()/pic9032552.png",
@@ -17050,12 +16510,7 @@
     "Giampaolo Razzino"
    ],
    "edition": "English edition · English · funbot",
-   "expands": [
-    {
-     "id": 348447,
-     "name": "Hens"
-    }
-   ],
+   "expands": [],
    "h": 257,
    "id": 377905,
    "image": "https://cf.geekdo-images.com/tuaBkoOsT3i69TeEuHDr_g__itemrep@2x/img/F20C95F6LMjvrpbMaDpJaP9X6xA=/fit-in/492x600/filters:strip_icc()/pic7266693.jpg",
@@ -17138,7 +16593,7 @@
    "myRating": 7.0,
    "name": "HeroQuest",
    "originalName": "HeroQuest",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -17182,12 +16637,7 @@
     "Stephen Baker"
    ],
    "edition": "MB Giochi Italian edition · Italian · MB Giochi",
-   "expands": [
-    {
-     "id": 699,
-     "name": "HeroQuest"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 1762,
    "image": "https://cf.geekdo-images.com/D0SNccctDh4p89we8lA4SA__itemrep/img/im_H_gwT5XfOFNs4UbByJqMW044=/fit-in/246x300/filters:strip_icc()/pic57747.jpg",
@@ -17248,12 +16698,7 @@
     "Stephen Baker"
    ],
    "edition": "Italian edition · Italian · Milton Bradley",
-   "expands": [
-    {
-     "id": 699,
-     "name": "HeroQuest"
-    }
-   ],
+   "expands": [],
    "h": 348,
    "id": 1765,
    "image": "https://cf.geekdo-images.com/h0-eg_t3Jwa34h6X9olkng__itemrep@2x/img/UkJcan3brty72OT-8O_gMvlxIJM=/fit-in/492x600/filters:strip_icc()/pic8323684.png",
@@ -17660,7 +17105,7 @@
    "myRating": 5.0,
    "name": "Il Segno degli Antichi",
    "originalName": "Elder Sign",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -17708,12 +17153,7 @@
     "Dane Beltrami"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 100423,
-     "name": "Il Segno degli Antichi"
-    }
-   ],
+   "expands": [],
    "h": 330,
    "id": 212572,
    "image": "https://cf.geekdo-images.com/b7wH7TcV-ylbEwLvaHJdng__itemrep@2x/img/q6vbATVJbq8qYI7xEmA15o8OZEc=/fit-in/492x600/filters:strip_icc()/pic3539826.jpg",
@@ -17870,7 +17310,7 @@
    "myRating": null,
    "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo",
    "originalName": "The Lord of the Rings: Journeys in Middle-Earth",
-   "ownedExpansions": 8,
+   "ownedExpansions": 0,
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -17916,12 +17356,7 @@
     "Grace Holdinghaus"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 316630,
    "image": "https://cf.geekdo-images.com/BbsGcVULOhD8qIFXCyp3Lw__itemrep@2x/img/ppmx3ObG2L3WgckNcilhP6YCvLU=/fit-in/492x600/filters:strip_icc()/pic5871000.jpg",
@@ -17984,12 +17419,7 @@
     "Grace Holdinghaus"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 277721,
    "image": "https://cf.geekdo-images.com/gT9aZ8EPhRgx7-MpuMlo2A__itemrep@2x/img/2VeMiP7QzKgk9UzJEaTcBOR-foc=/fit-in/492x600/filters:strip_icc()/pic4698941.png",
@@ -18052,12 +17482,7 @@
     "Grace Holdinghaus"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 523,
    "id": 299597,
    "image": "https://cf.geekdo-images.com/8SZmGiL31jvXofRwuoFDdw__itemrep@2x/img/97--JrVQyt_v48hRgqpiAtl--w0=/fit-in/492x600/filters:strip_icc()/pic5873467.png",
@@ -18119,12 +17544,7 @@
     "Jason Walden"
    ],
    "edition": "Italian edition 2020 · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 103343,
-     "name": "Il Trono di Spade: Il Gioco da Tavolo Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 124693,
    "image": "https://cf.geekdo-images.com/GCmw1hTm-2We4opvvm2WXA__itemrep@2x/img/A5zGdTYR0GSwFRAHfxypB7zZjgI=/fit-in/492x600/filters:strip_icc()/pic1470166.jpg",
@@ -18216,7 +17636,7 @@
    "myRating": null,
    "name": "Il Trono di Spade: Il Gioco da Tavolo Seconda Edizione",
    "originalName": "A Game of Thrones: The Board Game (Second Edition)",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 240,
    "plays": 0,
    "publishers": [
@@ -18349,7 +17769,7 @@
    "myRating": null,
    "name": "Il Trono di Spade: il Gioco di Carte (Seconda edizione)",
    "originalName": "A Game of Thrones: The Card Game (Second Edition)",
-   "ownedExpansions": 45,
+   "ownedExpansions": 0,
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -18658,7 +18078,7 @@
    "myRating": null,
    "name": "It's a Wonderful World",
    "originalName": "It's a Wonderful World",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -18714,12 +18134,7 @@
     "Frédéric Guérard"
    ],
    "edition": "English kickstarter edition · English · La Boîte de Jeu; Origames",
-   "expands": [
-    {
-     "id": 271324,
-     "name": "It's a Wonderful World"
-    }
-   ],
+   "expands": [],
    "h": 483,
    "id": 298851,
    "image": "https://cf.geekdo-images.com/Zid_TKFdhrEzxNWm4QK9YQ__itemrep@2x/img/O153p8hrquAYNM89hPjMS1tNzbo=/fit-in/492x600/filters:strip_icc()/pic5792120.jpg",
@@ -18801,7 +18216,7 @@
    "myRating": null,
    "name": "It's a Wonderful World: Heritage Edition",
    "originalName": "It's a Wonderful World: Heritage Edition",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -19472,7 +18887,7 @@
    "myRating": null,
    "name": "Krosmaster: Arena",
    "originalName": "Krosmaster: Arena",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -19574,12 +18989,7 @@
     "Édouard Guiton"
    ],
    "edition": "English edition · English · Japanime Games",
-   "expands": [
-    {
-     "id": 112138,
-     "name": "Krosmaster: Arena"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 145040,
    "image": "https://cf.geekdo-images.com/4LZXNW0k9rib9g78YeNQfw__itemrep@2x/img/R7EFxC3DSAk5AyfLj15YpjMZnzw=/fit-in/492x600/filters:strip_icc()/pic1886909.jpg",
@@ -19629,12 +19039,7 @@
    "description": "Krosmaster: Arena – Multiman comes with six unique figures and a change in gameplay. The Multiman expansion allows up to three of any given Multiman on your Krosmaster: Arena team. The Multimen become more powerful in numbers — total numbers — even if they are fighting against you!\n\nMultimen come in two varieties — Avengers and Villains — and are all Level 2 Characters. The Avengers feature Retribution powers and additional Spell effects dependent on the number of Avengers on the board, while the Villains feature Revenge powers and additional Spell effects dependent on the number of Villains on the board. As stated above, this includes all Avengers and Villains regardless of which side they are fighting for, so be wary of how you use them, as some get incredible boosts if more than seven Multimen are on the board at once.\n\nSix new figures (Korbax, Scoreur Beelzebug, Ombre Shadow, Lumino, Masse Trank and Skale)",
    "designers": [],
    "edition": "English edition · English · Japanime Games",
-   "expands": [
-    {
-     "id": 112138,
-     "name": "Krosmaster: Arena"
-    }
-   ],
+   "expands": [],
    "h": 540,
    "id": 151544,
    "image": "https://cf.geekdo-images.com/a5i5PauyDvZdv921rZ9AHA__itemrep@2x/img/7BKzyQS1zt9tDDS1F8eHbI0FbPQ=/fit-in/492x600/filters:strip_icc()/pic2059143.jpg",
@@ -20316,7 +19721,7 @@
    "myRating": 10.0,
    "name": "Le Case della Follia: Seconda Edizione",
    "originalName": "Mansions of Madness: Second Edition",
-   "ownedExpansions": 10,
+   "ownedExpansions": 0,
    "playingTime": 180,
    "plays": 0,
    "publishers": [
@@ -20366,12 +19771,7 @@
     "Amudha Venugopalan"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 283094,
    "image": "https://cf.geekdo-images.com/cbIKmNV9KpypwSGndWjD3w__itemrep@2x/img/5ODy76lr0-_Tc2pg01bEuqtawY0=/fit-in/492x600/filters:strip_icc()/pic5055174.jpg",
@@ -20439,12 +19839,7 @@
     "Nikki Valens"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 206547,
    "image": "https://cf.geekdo-images.com/t4lZapXtD_ojZG-ULiFB5w__itemrep/img/-BrNuxEJgJYzkUT6WOAfPw4394c=/fit-in/246x300/filters:strip_icc()/pic3238290.jpg",
@@ -20514,12 +19909,7 @@
     "Grace Holdinghaus"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 241533,
    "image": "https://cf.geekdo-images.com/Gt41wonKVnKhcJrjdeuVNA__itemrep@2x/img/cOcd0ETnzD0HwBJeVa_gbEPDOVs=/fit-in/492x600/filters:strip_icc()/pic3949201.jpg",
@@ -20593,12 +19983,7 @@
     "Nikki Valens"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 210674,
    "image": "https://cf.geekdo-images.com/0jZy7kH5adv8Tgz9r4Cpvw__itemrep@2x/img/TqhOEOUOiOX8omJMkI3l0APNc-Q=/fit-in/492x600/filters:strip_icc()/pic3539897.jpg",
@@ -20678,12 +20063,7 @@
     "Grace Holdinghaus"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 229987,
    "image": "https://cf.geekdo-images.com/fQuZVotnICKQK9YEoRDdsA__itemrep@2x/img/S5uTenak4z_doD7dJ2D-lO7meJI=/fit-in/492x600/filters:strip_icc()/pic3763364.jpg",
@@ -20753,12 +20133,7 @@
     "Kara Centell-Dunk"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 255823,
    "image": "https://cf.geekdo-images.com/hNnUKtD33BHttK0Ec52gqA__itemrep@2x/img/zTcmAscChMniVAIRuBVOj9-ijsI=/fit-in/492x600/filters:strip_icc()/pic4269709.jpg",
@@ -20828,12 +20203,7 @@
     "Nikki Valens"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 206548,
    "image": "https://cf.geekdo-images.com/4Ls5SDZHD_TX1wlzWTsZTw__itemrep/img/V-IUDXqT83t9-fNdeMT5Tewv5Xw=/fit-in/246x300/filters:strip_icc()/pic3238295.jpg",
@@ -21112,12 +20482,7 @@
     "Cédrick Chaboussit"
    ],
    "edition": "First edition · (neutral) · Ludonaute",
-   "expands": [
-    {
-     "id": 140620,
-     "name": "Lewis & Clark: The Expedition"
-    }
-   ],
+   "expands": [],
    "h": 281,
    "id": 164554,
    "image": "https://cf.geekdo-images.com/Pz7ZCYGJkTN8QHbe-K09Vw__itemrep/img/Loz-gamWYcOs4PuXwlb6tKHjK68=/fit-in/246x300/filters:strip_icc()/pic2218084.jpg",
@@ -21195,7 +20560,7 @@
    "myRating": null,
    "name": "Lewis & Clark: The Expedition",
    "originalName": "Lewis & Clark: The Expedition",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -21689,12 +21054,7 @@
    "description": "Lady Helena, the woman who hired you, is abducted through a polychromatic portal before your eyes! With the portal closing and only moments to act, you must decide who will follow into the unknown. Will you be able to work together even while torn apart?\n\nAltered Fates challenges investigators like never before by dividing the team across two maps that are in play simultaneously. The first is a proper 1920s mansion, like those you have come across in previous investigations. The second, however, is the future of this home— now an abandoned, boarded-up building. Each map presents its own series of challenges, with the investigators in the present directly affecting the investigation of their companions in the future: an item tucked beneath a loose floorboard may be found later in the same hiding place, or a rescued captive may be able to return to the mansion in the future.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 141,
    "id": 363616,
    "image": "https://cf.geekdo-images.com/Hngo6XmQguqFe2ZwRNFN_A__itemrep/img/jTJFvwbvDWdfQ8XGusdzVKdLcII=/fit-in/246x300/filters:strip_icc()/pic6881657.jpg",
@@ -21749,12 +21109,7 @@
    "description": "An isolated country estate’s secrets come to light when a woman inexplicably vanishes from its rooms!\n\nDark Reflections is a scenario for 1-5 investigators in which the disappearance of Ada Miller ignites a series of events that warps the nature of reality. Investigators will travel to a crumbling country manor in search of Ada’s ultimate fate. Inside, they must decipher what Ada left behind and withstand a variety of strange and frightening events as the walls separating their reality from another begin to collapse.\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 190,
    "id": 363618,
    "image": "https://cf.geekdo-images.com/AL72N3eFiJ-NGNbFVIbA7g__itemrep/img/ExSlsIuIbzvG4rZX1RwAZuEmyOM=/fit-in/246x300/filters:strip_icc()/pic6881748.png",
@@ -21807,12 +21162,7 @@
    "description": "A murder in Southside leaves a home abandoned–except for the strange noises coming from the cellar…\n\nWhat Lies Within is a scenario for 1-5 investigators in which a murder is only the beginning of the inexplicable occurrences in one Arkham mansion. Investigators will explore a murder scene, fend off terrible creatures, encounter strange phenomena, and investigate the noises coming from the cellar of the supposedly empty house. They must discover why the victim was murdered–and what he did with his life before it was so violently ended–in order to leave the mansion alive.\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 205059,
-     "name": "Le Case della Follia: Seconda Edizione"
-    }
-   ],
+   "expands": [],
    "h": 190,
    "id": 363617,
    "image": "https://cf.geekdo-images.com/2fPZ2tL87gSeABEW9ItcrA__itemrep/img/k7079V6_7h_Ucg-ixmGtMqClFqU=/fit-in/246x300/filters:strip_icc()/pic6881758.png",
@@ -21895,7 +21245,7 @@
    "myRating": null,
    "name": "Marvel Champions: Il Gioco di Carte",
    "originalName": "Marvel Champions: The Card Game",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -21938,12 +21288,7 @@
     "Caleb Grace"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 285774,
-     "name": "Marvel Champions: Il Gioco di Carte"
-    }
-   ],
+   "expands": [],
    "h": 494,
    "id": 306430,
    "image": "https://cf.geekdo-images.com/UdyG2uYtuA8zDd7cFhxZYg__itemrep@2x/img/stPk84_LXUadywTe88r6IONBV8U=/fit-in/492x600/filters:strip_icc()/pic5639884.jpg",
@@ -22024,7 +21369,7 @@
    "myRating": null,
    "name": "Marvel United",
    "originalName": "Marvel United",
-   "ownedExpansions": 4,
+   "ownedExpansions": 0,
    "playingTime": 40,
    "plays": 0,
    "publishers": [
@@ -22069,12 +21414,7 @@
     "Francesco Rugerfred Sedda"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 298047,
-     "name": "Marvel United"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 339131,
    "image": "https://cf.geekdo-images.com/V60hE4vw1qshoFdjv3etyQ__itemrep@2x/img/-wLm5i4fK-n6v8gjLGrCj7gDdV4=/fit-in/492x600/filters:strip_icc()/pic7365029.jpg",
@@ -22138,12 +21478,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 298047,
-     "name": "Marvel United"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 302670,
    "image": "https://cf.geekdo-images.com/p-Jcd8eGV2_R244JTm4jYg__itemrep@2x/img/MmRrSCIohe-CHEW-px69K8XRGGQ=/fit-in/492x600/filters:strip_icc()/pic5263263.jpg",
@@ -22202,12 +21537,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 298047,
-     "name": "Marvel United"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 302669,
    "image": "https://cf.geekdo-images.com/9oQJGvSl2QcVucUuN5nEjA__itemrep@2x/img/M8QuFWNwchjWrkwJ9PYvpudWess=/fit-in/492x600/filters:strip_icc()/pic5263265.jpg",
@@ -22267,12 +21597,7 @@
     "Eric M. Lang"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 298047,
-     "name": "Marvel United"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 302668,
    "image": "https://cf.geekdo-images.com/ijm2UokbdVe3DatVe89x9g__itemrep@2x/img/rsQvdvuOz2Zqw6CpPYTRoyCDOjc=/fit-in/492x600/filters:strip_icc()/pic5263262.jpg",
@@ -22348,7 +21673,7 @@
    "myRating": 8.0,
    "name": "Mascarade",
    "originalName": "Mascarade",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 2,
    "publishers": [
@@ -22391,12 +21716,7 @@
     "Bruno Faidutti"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Repos Production",
-   "expands": [
-    {
-     "id": 139030,
-     "name": "Mascarade"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 144984,
    "image": "https://cf.geekdo-images.com/9QX87mpXuLYelO_6BoOGoQ__itemrep@2x/img/LSNlNPCw_LDYBviJxDa-dyt7_F8=/fit-in/492x600/filters:strip_icc()/pic1751041.jpg",
@@ -22996,7 +22316,7 @@
    "myRating": null,
    "name": "Mysterium",
    "originalName": "Mysterium",
-   "ownedExpansions": 3,
+   "ownedExpansions": 0,
    "playingTime": 42,
    "plays": 0,
    "publishers": [
@@ -23043,12 +22363,7 @@
     "Oleg Sidorenko"
    ],
    "edition": "Italian edition · Italian · Libellud",
-   "expands": [
-    {
-     "id": 181304,
-     "name": "Mysterium"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 192661,
    "image": "https://cf.geekdo-images.com/Zexoc5pzO8DU3WiNBu1Xkw__itemrep/img/PNkPLydsCxi64NYD40WUHqhFJWM=/fit-in/246x300/filters:strip_icc()/pic8669609.png",
@@ -23111,12 +22426,7 @@
     "Oleg Sidorenko"
    ],
    "edition": "Italian edition · Italian · asmodee; Libellud",
-   "expands": [
-    {
-     "id": 181304,
-     "name": "Mysterium"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 216465,
    "image": "https://cf.geekdo-images.com/bLZim1WunrYXWzRy-KZsCQ__itemrep/img/MyjRWdcfqEIcuy1HhyJwvXmkc4k=/fit-in/246x300/filters:strip_icc()/pic8669610.png",
@@ -23174,12 +22484,7 @@
     "Oleg Sidorenko"
    ],
    "edition": "First edition · French · Libellud",
-   "expands": [
-    {
-     "id": 181304,
-     "name": "Mysterium"
-    }
-   ],
+   "expands": [],
    "h": 163,
    "id": 202669,
    "image": "https://cf.geekdo-images.com/ZMMYFNBXYRdJN1KZAszAbA__itemrep/img/cACb15YVYJQiEoLyrswJazDFUr8=/fit-in/246x300/filters:strip_icc()/pic3068363.png",
@@ -23322,7 +22627,7 @@
    "myRating": null,
    "name": "Nations",
    "originalName": "Nations",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 200,
    "plays": 0,
    "publishers": [
@@ -23367,12 +22672,7 @@
     "Robert Rosén"
    ],
    "edition": "Lautapelit.fi German edition · German · Lautapelit.fi",
-   "expands": [
-    {
-     "id": 126042,
-     "name": "Nations"
-    }
-   ],
+   "expands": [],
    "h": 246,
    "id": 149248,
    "image": "https://cf.geekdo-images.com/COC7aTkfZim_f9f2j1TUZA__itemrep/img/RDvGodyfFKCxSh6nsneSK0AUXQE=/fit-in/246x300/filters:strip_icc()/pic1802646.jpg",
@@ -23424,12 +22724,7 @@
     "Robert Rosén"
    ],
    "edition": "Lautapelit.fi English edition · English · Lautapelit.fi",
-   "expands": [
-    {
-     "id": 126042,
-     "name": "Nations"
-    }
-   ],
+   "expands": [],
    "h": 246,
    "id": 149249,
    "image": "https://cf.geekdo-images.com/zB-omFxKMk1GvvMQPGhm5Q__itemrep/img/8T7MdemW7zHkIdTotZCcQ3PgNec=/fit-in/246x300/filters:strip_icc()/pic1802648.jpg",
@@ -23844,7 +23139,7 @@
    "myRating": null,
    "name": "Oltre",
    "originalName": "Oltréé",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -23889,12 +23184,7 @@
     "John Grümph"
    ],
    "edition": "Italian edition · Italian · GateOnGames",
-   "expands": [
-    {
-     "id": 293835,
-     "name": "Oltre"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 352979,
    "image": "https://cf.geekdo-images.com/7k-U6V3b7B81EXJp1n4NiA__itemrep@2x/img/BO7r74Aw6sxeEDSz1vNajfBosPc=/fit-in/492x600/filters:strip_icc()/pic6920808.jpg",
@@ -24413,7 +23703,7 @@
    "myRating": 9.0,
    "name": "Pandemic",
    "originalName": "Pandemic",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -24536,12 +23826,7 @@
     "Thomas Lehmann"
    ],
    "edition": "English first edition · English · Z-Man Games",
-   "expands": [
-    {
-     "id": 30549,
-     "name": "Pandemic"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 40849,
    "image": "https://cf.geekdo-images.com/MOsfIJrEqkGMUlo09TL3rw__itemrep@2x/img/tcs2uQmLRX0xBSTkR5x2ohUk8RA=/fit-in/492x600/filters:strip_icc()/pic7014070.jpg",
@@ -24876,7 +24161,7 @@
    "myRating": null,
    "name": "Pozioni Esplosive",
    "originalName": "Potion Explosion",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -24927,12 +24212,7 @@
     "Lorenzo Silva"
    ],
    "edition": "Italian edition · Italian · Ghenos Games",
-   "expands": [
-    {
-     "id": 180974,
-     "name": "Pozioni Esplosive"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 203542,
    "image": "https://cf.geekdo-images.com/HNY4dGRmFxa9bBAkwXFiQQ__itemrep@2x/img/gmNYlW3yznRtGi1ZKFiON-YMuH4=/fit-in/492x600/filters:strip_icc()/pic3387514.png",
@@ -25733,7 +25013,7 @@
    "myRating": null,
    "name": "Race for the Galaxy",
    "originalName": "Race for the Galaxy",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -25787,12 +25067,7 @@
     "Thomas Lehmann"
    ],
    "edition": "Italian edition · Italian · Gamesinitaly; Ghenos Games; Giochix.it",
-   "expands": [
-    {
-     "id": 28143,
-     "name": "Race for the Galaxy"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 66121,
    "image": "https://cf.geekdo-images.com/XXuitXbTocAt-vVC2aGIYw__itemrep/img/j9r4-nFMzjN1e9ZR-eJjG-MzM_Q=/fit-in/246x300/filters:strip_icc()/pic977175.jpg",
@@ -26115,7 +25390,7 @@
    "myRating": null,
    "name": "Res Arcana",
    "originalName": "Res Arcana",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -26164,12 +25439,7 @@
     "Thomas Lehmann"
    ],
    "edition": "Italian edition · Italian · Sand Castle Games",
-   "expands": [
-    {
-     "id": 262712,
-     "name": "Res Arcana"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 288168,
    "image": "https://cf.geekdo-images.com/QcmPjXRJ4UjPpFDgHJNsCg__itemrep@2x/img/l1iASHGs_QS6x1bW8eejt3QwU38=/fit-in/492x600/filters:strip_icc()/pic5054545.jpg",
@@ -26227,12 +25497,7 @@
     "Thomas Lehmann"
    ],
    "edition": "Italian edition · Italian · Sand Castle Games",
-   "expands": [
-    {
-     "id": 262712,
-     "name": "Res Arcana"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 340375,
    "image": "https://cf.geekdo-images.com/RylkY1l_RpTkGhaTRi978w__itemrep@2x/img/ANui_34_BWX9oXpZf1ZBFcPVASo=/fit-in/492x600/filters:strip_icc()/pic6234396.jpg",
@@ -26683,7 +25948,7 @@
    "myRating": null,
    "name": "Santorini",
    "originalName": "Santorini",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -26754,7 +26019,7 @@
    "myRating": null,
    "name": "Santorini: Pantheon Edition",
    "originalName": "Santorini: Pantheon Edition",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -26801,12 +26066,7 @@
     "Paul Saxberg"
    ],
    "edition": "English Synth edition · English · Roxley",
-   "expands": [
-    {
-     "id": 194655,
-     "name": "Santorini"
-    }
-   ],
+   "expands": [],
    "h": 416,
    "id": 383477,
    "image": "https://cf.geekdo-images.com/2VqZQDrqgIrn-g6OK7ea_A__itemrep@2x/img/MtIYwAM20DlM0Ii9s1cpiMki2hU=/fit-in/492x600/filters:strip_icc()/pic9290381.png",
@@ -27107,7 +26367,7 @@
    "myRating": null,
    "name": "Shards of Infinity",
    "originalName": "Shards of Infinity",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -27149,12 +26409,7 @@
     "Justin Gary"
    ],
    "edition": "English edition · English · Stone Blade Entertainment; Ultra PRO",
-   "expands": [
-    {
-     "id": 244115,
-     "name": "Shards of Infinity"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 257379,
    "image": "https://cf.geekdo-images.com/VAf5ikKrVKd2oi1sAfK8HA__itemrep@2x/img/zkd-5lFRfIncCpx9lI2gQZTP274=/fit-in/492x600/filters:strip_icc()/pic4277051.jpg",
@@ -27665,12 +26920,7 @@
     "Kevin Wilson"
    ],
    "edition": "Italian edition · Italian · Giochi Uniti",
-   "expands": [
-    {
-     "id": 77130,
-     "name": "Sid Meier's Civilization: The Board Game"
-    }
-   ],
+   "expands": [],
    "h": 245,
    "id": 142708,
    "image": "https://cf.geekdo-images.com/4wOFQnfq-VEgTgvaFBRO_g__itemrep/img/5zzIWYqrHa5YwQnT9SE745fLAu0=/fit-in/246x300/filters:strip_icc()/pic1680700.jpg",
@@ -27734,12 +26984,7 @@
     "Kevin Wilson"
    ],
    "edition": "Italian edition · Italian · Stratelibri",
-   "expands": [
-    {
-     "id": 77130,
-     "name": "Sid Meier's Civilization: The Board Game"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 108415,
    "image": "https://cf.geekdo-images.com/v5rfNr6qsl71BC80f52Dvw__itemrep@2x/img/YfUwPVcvqCq9J-Kn4MjAdHXYgk8=/fit-in/492x600/filters:strip_icc()/pic1097429.jpg",
@@ -27827,7 +27072,7 @@
    "myRating": 10.0,
    "name": "Sid Meier's Civilization: The Board Game",
    "originalName": "Sid Meier's Civilization: The Board Game",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "playingTime": 240,
    "plays": 1,
    "publishers": [
@@ -28476,7 +27721,7 @@
    "myRating": null,
    "name": "Splendor",
    "originalName": "Splendor",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -28526,12 +27771,7 @@
     "Marc André"
    ],
    "edition": "English edition · English · Space Cowboys",
-   "expands": [
-    {
-     "id": 148228,
-     "name": "Splendor"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 220653,
    "image": "https://cf.geekdo-images.com/H7YUcZPxhbq2fPuzuxODlg__itemrep@2x/img/SeDfUhMaA4krMwbzjo1KdUMl7Qw=/fit-in/492x600/filters:strip_icc()/pic3711701.jpg",
@@ -29159,7 +28399,7 @@
    "myRating": null,
    "name": "Star Wars: Assalto Imperiale",
    "originalName": "Star Wars: Imperial Assault",
-   "ownedExpansions": 19,
+   "ownedExpansions": 0,
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -29210,12 +28450,7 @@
     "Paul Winchester"
    ],
    "edition": "Italian edition · Italian · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 226839,
    "image": "https://cf.geekdo-images.com/efa8Fm1aBdM7tXK6uJAsfg__itemrep@2x/img/C1U69wQ9R5nQ5S372XnS7jZQqAA=/fit-in/492x600/filters:strip_icc()/pic3564195.jpg",
@@ -29278,12 +28513,7 @@
     "Paul Winchester"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 175213,
    "image": "https://cf.geekdo-images.com/yZxdgVibjnj9Wt7XV2HlZA__itemrep@2x/img/1PX0iA4yufq7R_4w4FXR9UPtRaA=/fit-in/492x600/filters:strip_icc()/pic2473293.jpg",
@@ -29341,12 +28571,7 @@
     "Paul Winchester"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 199911,
    "image": "https://cf.geekdo-images.com/KdyyNZK9pkrai4uZ1qS4fw__itemrep@2x/img/TKKEWY7-6PXNPuhJx4mfWfFA2xA=/fit-in/492x600/filters:strip_icc()/pic3539862.png",
@@ -29406,12 +28631,7 @@
     "Jonathan Ying"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 167889,
    "image": "https://cf.geekdo-images.com/FJDz46TWSKTB79l1FzHE2Q__itemrep/img/v0v4Su93YCcF7KQZ5sOpraMQVyo=/fit-in/246x300/filters:strip_icc()/pic2337421.jpg",
@@ -29469,12 +28689,7 @@
     "Paul Winchester"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 554,
    "id": 175212,
    "image": "https://cf.geekdo-images.com/mmRwOY9NDb9wMicD-9o9Yw__itemrep@2x/img/sOELCwo6y1e7lznypMhoITQ6xnM=/fit-in/492x600/filters:strip_icc()/pic2473296.jpg",
@@ -29524,12 +28739,7 @@
    "description": "Description from the publisher:\n\nThe legendary Ahsoka Tano lends her Force talents and rebellious spirit to your cause with the Ahsoka Tano Ally Pack for Imperial Assault!\n\nWith her twin lightsabers, Ahsoka may offer you just the edge you need to survive your adventures in Coruscant. Her Force leaps allow her to move quickly into position wherever she’s needed most, and then she can press the attack with one blue die and two green dice, as well as the ability to reroll all her attack dice or all the defender's defense dice.\n\nYou’ll find more of Ahsoka's talents, spirit, and connection to the Force represented among the expansion’s mission and Command cards. Four of these Command cards strengthen her connection to the Force, and the fifth takes full advantage of her talents as a Spy. Finally, two new skirmish missions provide ample opportunities for you to fight alongside Ahsoka, sowing chaos in the heart of the Empire.\n\nThis is not a standalone product. A copy of the Imperial Assault Core Set is required to play. Includes missions that require the Heart of the Empire expansion.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226836,
    "image": "https://cf.geekdo-images.com/a4DKF5V-xlWtX88AnM90ig__itemrep@2x/img/B6lnZppaa5BZ6IuvO6CjT9vFZYY=/fit-in/492x600/filters:strip_icc()/pic3564212.png",
@@ -29581,12 +28791,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 242,
    "id": 180622,
    "image": "https://cf.geekdo-images.com/EKZN-h1oXPYbqm45wuUfLg__itemrep/img/_3M33_xi0oCuJyUBQ4A2rGEQLKQ=/fit-in/246x300/filters:strip_icc()/pic2895782.png",
@@ -29635,12 +28840,7 @@
    "description": "Description from the publisher:\n\nThrow Force lightning, tempt others down the road to ruin, and spur others toward spontaneous violence with the Emperor Palpatine Villain Pack for Imperial Assault!\n\nAlthough this Sith Lord and head of the Galactic Empire does most of his work behind the scenes, playing admirals and generals and politicians like puppets, you'll find Palpatine more than capable of taking to the streets and acting directly to advance his interests. No matter whether you have the Emperor navigate Coruscant and its intrigues in your campaign or lead his army into quickly fought skirmishes, his impressive melee skills and inherent Pierce \"3\" offer only the merest hints of his full range of power.\n\nAnd, as befits his status as master of the dark side of the Force and supreme ruler of the galaxy, the Emperor also comes with a full suite of Force-themed Command cards and an Agenda deck that allows you to explore his many plots.\n\nThis is not a standalone product. A copy of the Imperial Assault Core Set is required to play. Includes missions that require the Heart of the Empire expansion.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226837,
    "image": "https://cf.geekdo-images.com/oym7h09hPS0ZkczI6dTEFw__itemrep@2x/img/OYsKAP16UUtTeJoUuTww10Y3DIo=/fit-in/492x600/filters:strip_icc()/pic3564202.png",
@@ -29693,12 +28893,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 553,
    "id": 205904,
    "image": "https://cf.geekdo-images.com/4G2qDzKTYqZTZOy5O6K0PA__itemrep@2x/img/NqK9XSULAbnxtVUL1U_CsvbdrR0=/fit-in/492x600/filters:strip_icc()/pic3238314.png",
@@ -29761,12 +28956,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 205900,
    "image": "https://cf.geekdo-images.com/U4-HNQT-2wHq-JrOfci4AQ__itemrep@2x/img/bFukN352l6cCrUGaA250sBES3Xo=/fit-in/492x600/filters:strip_icc()/pic3238315.jpg",
@@ -29830,12 +29020,7 @@
     "Jonathan Ying"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 194903,
    "image": "https://cf.geekdo-images.com/31pRRHRsmKx1DysMPWGCPw__itemrep@2x/img/4beBA1H8EDatGTYEuyWl1mmessY=/fit-in/492x600/filters:strip_icc()/pic3013568.png",
@@ -29892,12 +29077,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 246,
    "id": 181689,
    "image": "https://cf.geekdo-images.com/S3ru9U0GFwFVzdEMKHX_kw__itemrep/img/-moiYeCi2fzAoANxLrtKG9g5RV4=/fit-in/246x300/filters:strip_icc()/pic2617136.png",
@@ -29950,12 +29130,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 205905,
    "image": "https://cf.geekdo-images.com/J-3uyO9MmdvYsdcashkEjQ__itemrep@2x/img/CdM0Zm-MDoH2SIOViLqB-roA7zI=/fit-in/492x600/filters:strip_icc()/pic3238310.png",
@@ -30003,12 +29178,7 @@
    "description": "Description from the publisher:\n\nWith the Maul Villain Pack, you can bring one of the galaxy’s deadliest Force users to your games of Imperial Assault, either as a powerful piece in the Imperial player's greater campaign designs or as an independent member of the Mercenary faction, ready to join any skirmish army that might allow him to further his own interests.\n\nIn either case, you'll find Maul eager to claim vengeance. To that end, he may be willing to stick to the Coruscant shadows and skyrises for a short time, stalking his prey, but it won't be long before his rage and fury get the better of him. Then, when Maul leaps into the fray with his iconic dual-bladed lightsaber, you'll find him more than capable of cutting cleanly through the defenses of any who stand against him. And while much about this former Sith is shrouded in mystery, you'll quickly learn that he's sustained by rage and almost always looking for a fight.\n\nThis is not a standalone product. A copy of the Imperial Assault Core Set is required to play. Includes missions that require the Heart of the Empire expansion.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 226838,
    "image": "https://cf.geekdo-images.com/kbkAdSSzc4uCHodJjFS3dg__itemrep@2x/img/lQphr3eFr7kTpj3JAM5OLfbg5lg=/fit-in/492x600/filters:strip_icc()/pic3564199.png",
@@ -30070,12 +29240,7 @@
     "Jonathan Ying"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 181621,
    "image": "https://cf.geekdo-images.com/LA3yr-QaKQ7aAcLPAJkZMA__itemrep@2x/img/_-j5tU29XptghjAZsDoQCuTc3mo=/fit-in/492x600/filters:strip_icc()/pic2786289.jpg",
@@ -30142,12 +29307,7 @@
     "Jonathan Ying"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 245,
    "id": 194897,
    "image": "https://cf.geekdo-images.com/yhvM4DYxDSUjrNmRTmVokQ__itemrep/img/1yiZ8sJ5xEj8q7ahImbW8xEO28M=/fit-in/246x300/filters:strip_icc()/pic3013556.jpg",
@@ -30204,12 +29364,7 @@
    "description": "Few in the Emperor's command are as cunning as Grand Admiral Thrawn. Using knowledge of his enemies' culture and art against them, Thrawn picks apart his foes piece by piece with an efficency unparalleled in the galaxy.\n\nThis Villain Pack contain everything you need to add Thrawn to your Imperial Assault campaign and skirmish games! Daring missions, powerful command cards and a beautifully sculpted figure awaits you in the Thrawn Villain Pack!\n\n—description from the publisher\n\nThe included mission comes with story epilogues to permit integration as a side mission into the Tyrants of Lothal mini campaign.",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 251231,
    "image": "https://cf.geekdo-images.com/A4V0zNJRyOjXltl99V5K8Q__itemrep@2x/img/_IsWBJaprLKeX6Drrp5eL8kVb5E=/fit-in/492x600/filters:strip_icc()/pic4094153.png",
@@ -30270,12 +29425,7 @@
     "Paul Winchester"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 175211,
    "image": "https://cf.geekdo-images.com/Cv11Gl9bsPAaOMppKceZxQ__itemrep@2x/img/GkmXXwxn-yzh3RnZJahmDrNvbQs=/fit-in/492x600/filters:strip_icc()/pic2473289.jpg",
@@ -30345,12 +29495,7 @@
     "Brandon Perdue"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 164153,
-     "name": "Star Wars: Assalto Imperiale"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 251066,
    "image": "https://cf.geekdo-images.com/xrLCcp6hRfAg6GSz4Cusaw__itemrep@2x/img/jyvJOTF0p1U8vog7a9X-X4YTvqo=/fit-in/492x600/filters:strip_icc()/pic4094156.jpg",
@@ -30521,7 +29666,7 @@
    "myRating": null,
    "name": "Star Wars: X-Wing Gioco di Miniature",
    "originalName": "Star Wars: X-Wing Miniatures Game",
-   "ownedExpansions": 6,
+   "ownedExpansions": 0,
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -30569,12 +29714,7 @@
     "Jay Little"
    ],
    "edition": "Italian edition · Italian · Giochi Uniti",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 179,
    "id": 148259,
    "image": "https://cf.geekdo-images.com/uhj_-8maM5cuauEngvWP4w__itemrep/img/hKn7DV2BAXG1bgddEdZX2AzOD1c=/fit-in/246x300/filters:strip_icc()/pic1854821.jpg",
@@ -30639,12 +29779,7 @@
     "Jay Little"
    ],
    "edition": "Italian edition · Italian · Giochi Uniti",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 204,
    "id": 156770,
    "image": "https://cf.geekdo-images.com/miZOzIjmLXeFnpkMtdgqPQ__itemrep/img/7kK-jNnVycWHuQquVGiH4ixstFU=/fit-in/246x300/filters:strip_icc()/pic1964202.png",
@@ -30710,12 +29845,7 @@
     "Jay Little"
    ],
    "edition": "Italian edition · Italian · Giochi Uniti",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 185,
    "id": 129432,
    "image": "https://cf.geekdo-images.com/0ZTbrdVnhWuLCViBVuUdOw__itemrep/img/dTS2TXWwFjhDw73qaLUeZU40610=/fit-in/246x300/filters:strip_icc()/pic1524465.png",
@@ -30783,12 +29913,7 @@
     "Jay Little"
    ],
    "edition": "Italian edition · Italian · Giochi Uniti",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 182,
    "id": 129433,
    "image": "https://cf.geekdo-images.com/SzN4a0g5iqkOn77Ai98Zdg__itemrep/img/8j8JyLJDZvWIphZTPPxKqNIA2gE=/fit-in/246x300/filters:strip_icc()/pic1545131.png",
@@ -30847,12 +29972,7 @@
     "Max Brooke"
    ],
    "edition": "English edition · English · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 326,
    "id": 237391,
    "image": "https://cf.geekdo-images.com/hSC4lpkfQas_xGaISr6nUg__itemrep@2x/img/xiXYIWkmCdnQh2VByxv3z_l7vTo=/fit-in/492x600/filters:strip_icc()/pic3789961.png",
@@ -30909,12 +30029,7 @@
     "Jay Little"
    ],
    "edition": "English edition · English · Fantasy Flight Games",
-   "expands": [
-    {
-     "id": 103885,
-     "name": "Star Wars: X-Wing Gioco di Miniature"
-    }
-   ],
+   "expands": [],
    "h": 409,
    "id": 246718,
    "image": "https://cf.geekdo-images.com/2ib8nW54jCQazVKVctzw7w__itemrep@2x/img/TWixejhpO1FDt6qBgsY1H2-tosI=/fit-in/492x600/filters:strip_icc()/pic4025314.png",
@@ -31193,7 +30308,7 @@
    "myRating": 9.0,
    "name": "Suburbia",
    "originalName": "Suburbia",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 2,
    "publishers": [
@@ -31237,12 +30352,7 @@
     "Ted Alspach"
    ],
    "edition": "English edition · English · Bézier Games",
-   "expands": [
-    {
-     "id": 123260,
-     "name": "Suburbia"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 145196,
    "image": "https://cf.geekdo-images.com/Cb0O0BhsKubx9MaqP-KLAg__itemrep@2x/img/K9b6MKxAlDrMHU1RSD0q_9Ed2YU=/fit-in/492x600/filters:strip_icc()/pic1722753.jpg",
@@ -31555,7 +30665,7 @@
    "myRating": 8.0,
    "name": "T.I.M.E Stories",
    "originalName": "T.I.M.E Stories",
-   "ownedExpansions": 6,
+   "ownedExpansions": 0,
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -31600,12 +30710,7 @@
     "Manuel Rozoy"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 490,
    "id": 189686,
    "image": "https://cf.geekdo-images.com/e9Ug0vcSMJFzIhE8tQY1uA__itemrep@2x/img/neTYcTGYhWNUlzQt_5ePdyGBcUA=/fit-in/492x600/filters:strip_icc()/pic3013618.jpg",
@@ -31669,12 +30774,7 @@
     "LeDupontesque"
    ],
    "edition": "Italian edition · Italian · asmodee; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 486,
    "id": 220836,
    "image": "https://cf.geekdo-images.com/HhQ8ajIs_Jiqyl4DpGEQjQ__itemrep@2x/img/vk5g9ORW0uN-6ZXNNbEUzpPlWvw=/fit-in/492x600/filters:strip_icc()/pic4601037.jpg",
@@ -31736,12 +30836,7 @@
     "Nicolas Normandon"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 180585,
    "image": "https://cf.geekdo-images.com/1qkb3qeZH8cvxELmfQ9Njg__itemrep@2x/img/aElmX9bSlVUyrWfW-wq473V_dnc=/fit-in/492x600/filters:strip_icc()/pic2617644.jpg",
@@ -31803,12 +30898,7 @@
     "Manuel Rozoy"
    ],
    "edition": "Italian edition · Italian · asmodee; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 494,
    "id": 220839,
    "image": "https://cf.geekdo-images.com/DtB5HZzigtqu5H2fsNg6Vg__itemrep@2x/img/WCoYD5BmyL6iwJT4UIplvIMHqT8=/fit-in/492x600/filters:strip_icc()/pic4267267.jpg",
@@ -31871,12 +30961,7 @@
     "Manuel Rozoy"
    ],
    "edition": "Italian edition · Italian · Asterion Press; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 189035,
    "image": "https://cf.geekdo-images.com/P-j-gXf9wwCdtQXI7Hg0tQ__itemrep@2x/img/HZqpb1TKYilgy1Sc-fZ6cLF7jD8=/fit-in/492x600/filters:strip_icc()/pic2793584.jpg",
@@ -31938,12 +31023,7 @@
     "Ulric Maes"
    ],
    "edition": "Italian edition · Italian · asmodee; Space Cowboys",
-   "expands": [
-    {
-     "id": 146508,
-     "name": "T.I.M.E Stories"
-    }
-   ],
+   "expands": [],
    "h": 497,
    "id": 213099,
    "image": "https://cf.geekdo-images.com/DQfRQlznf-Iaw0tFlvNPrw__itemrep@2x/img/NRMmYs3zw5xoRSDQg3cTGJs_TD0=/fit-in/492x600/filters:strip_icc()/pic3539784.jpg",
@@ -32202,7 +31282,7 @@
    "myRating": null,
    "name": "Terraforming Mars",
    "originalName": "Terraforming Mars",
-   "ownedExpansions": 5,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -32335,12 +31415,7 @@
     "Jonathan Fryxelius"
    ],
    "edition": "English edition · English · FryxGames; Stronghold Games",
-   "expands": [
-    {
-     "id": 167791,
-     "name": "Terraforming Mars"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 255681,
    "image": "https://cf.geekdo-images.com/OyCyHETRL-RzzYKlF8jshA__itemrep@2x/img/rlGsIJzT7xHdm-RwRY7ow7Vxwqk=/fit-in/492x600/filters:strip_icc()/pic4193099.jpg",
@@ -32408,12 +31483,7 @@
     "Jacob Fryxelius"
    ],
    "edition": "English edition · English · FryxGames; Stronghold Games",
-   "expands": [
-    {
-     "id": 167791,
-     "name": "Terraforming Mars"
-    }
-   ],
+   "expands": [],
    "h": 416,
    "id": 218127,
    "image": "https://cf.geekdo-images.com/7yS40E2oW3JY5_1HpDkmBw__itemrep@2x/img/D_2RfN22AEWXQHo322YhBRdb_gw=/fit-in/492x600/filters:strip_icc()/pic3343205.jpg",
@@ -32476,12 +31546,7 @@
     "Jacob Fryxelius"
    ],
    "edition": "English edition · English · FryxGames; Stronghold Games",
-   "expands": [
-    {
-     "id": 167791,
-     "name": "Terraforming Mars"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 247030,
    "image": "https://cf.geekdo-images.com/2qrpbgsKEcvu5RLXpb6fgw__itemrep@2x/img/9lfqpXwcvmQxS52NPsIK8aGZ6kM=/fit-in/492x600/filters:strip_icc()/pic4137234.jpg",
@@ -32546,12 +31611,7 @@
     "Jacob Fryxelius"
    ],
    "edition": "English edition · English · FryxGames; Stronghold Games",
-   "expands": [
-    {
-     "id": 167791,
-     "name": "Terraforming Mars"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 273473,
    "image": "https://cf.geekdo-images.com/KJHDZ_QwU6nAwrc53ixfJw__itemrep@2x/img/ceqkGRJyIq9FnPVqlQ9gnP1Egzc=/fit-in/492x600/filters:strip_icc()/pic4599496.jpg",
@@ -32619,12 +31679,7 @@
     "Jacob Fryxelius"
    ],
    "edition": "English edition · English · FryxGames; Stronghold Games",
-   "expands": [
-    {
-     "id": 167791,
-     "name": "Terraforming Mars"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 231965,
    "image": "https://cf.geekdo-images.com/XuQN5HlG2bLbQu3AlQQgbQ__itemrep@2x/img/AlWMeaPUq--uSqMA09_o4EdIIFk=/fit-in/492x600/filters:strip_icc()/pic3767139.jpg",
@@ -33137,12 +32192,7 @@
    "description": "Digital Only Content, added as DLC in the App on various platforms.\n\nThe roads of Bree-land are beset by marauding Wargs, bolder and cleverer than the land has known in many years. The Thain of the Shire has been slow to react, for (say the rumors) something else darkens his thoughts. The Thain has welcomed odd visitors into his home, and he has kept everyone tight-lipped about what troubles him so. With the Thain so distracted, the task falls to you to secure the Shire, as only bold heroes dare travel the wilderness in these troubled times…\n\n—description from the publisher",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 308,
    "id": 295353,
    "image": "https://cf.geekdo-images.com/pFy5gfoG6ziAqYDgwKR3Ng__itemrep@2x/img/55_THb6rKJzVc_TfMgdCnYeOvBY=/fit-in/492x600/filters:strip_icc()/pic5150836.jpg",
@@ -33202,12 +32252,7 @@
     "Grace Holdinghaus"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 342189,
-     "name": "The Lord of the Rings: Journeys in Middle-Earth – Spreading War Expansion"
-    }
-   ],
+   "expands": [],
    "h": 330,
    "id": 367926,
    "image": "https://cf.geekdo-images.com/XewgyTmgBu4jjC1ljNb0_A__itemrep@2x/img/TWsR9FiCpceMiYGMH1uIjcBu_oY=/fit-in/492x600/filters:strip_icc()/pic6985029.png",
@@ -33268,12 +32313,7 @@
     "Grace Holdinghaus"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 367926,
-     "name": "The Lord of the Rings: Journeys in Middle-Earth – Poison Promise"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 367925,
    "image": "https://cf.geekdo-images.com/UvT7L_DJSUN1B2ppki1JuA__itemrep@2x/img/rrRdkZrVWtaIE1B-4X_Jjm04fQw=/fit-in/492x600/filters:strip_icc()/pic7060913.jpg",
@@ -33340,12 +32380,7 @@
     "Grace Holdinghaus"
    ],
    "edition": null,
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 261,
    "id": 342189,
    "image": "https://cf.geekdo-images.com/f_hnw6s5SsA4u8KoeZ8OdA__itemrep/img/fh8nP0wGFvJpTCERU5wA84xF2e8=/fit-in/246x300/filters:strip_icc()/pic6273164.png",
@@ -33404,12 +32439,7 @@
    "description": "Digital Only Content, added as DLC in the App on various platforms.\n\n“Then the people of Harrowdale shut fast their doors and shroud their windows and are afraid. But the Dead come seldom forth and only at times of great unquiet and coming death.”\n\n –J.R.R. Tolkien, The Return of the King\n\nThe road of your journey has led you this time to the Kingdom of Dale. A shadow has risen over this great realm of Men, and now King Bain must call upon heroes in order to investigate disturbing rumors and restore peace to his kingdom. It is once again time for a new adventure.\n\nFantasy Flight Games is pleased to announce two new products for The Lord of the Rings: Journeys in Middle-earth:\n\nThe Haunting of Dale downloadable campaign\n\nHaunting of Dale is the second downloadable campaign available for purchase through the Journeys in Middle-earth companion app, offering a completely new set of quests and challenges that require both the Core Set and the new Shadowed Paths expansion to play. With thirteen new adventures and a branching storyline full of mystery and intrigue in and around the Kingdom of Dale, the trials presented by this campaign are sure to thrill even the most experienced…",
    "designers": [],
    "edition": null,
-   "expands": [
-    {
-     "id": 269385,
-     "name": "Il Signore degli Anelli: Viaggi nella Terra di Mezzo"
-    }
-   ],
+   "expands": [],
    "h": 308,
    "id": 319895,
    "image": "https://cf.geekdo-images.com/qESwv2LIYNo5H9AajnqrKw__itemrep@2x/img/8SXMQ7MfP1B_TLZgTsAjQHrrxvk=/fit-in/492x600/filters:strip_icc()/pic5926857.png",
@@ -33611,7 +32641,7 @@
    "myRating": null,
    "name": "Thrive",
    "originalName": "Thrive",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -33652,12 +32682,7 @@
     "Adam Rehberg"
    ],
    "edition": "English edition · English · Adam's Apple Games, LLC",
-   "expands": [
-    {
-     "id": 250725,
-     "name": "Thrive"
-    }
-   ],
+   "expands": [],
    "h": 492,
    "id": 283032,
    "image": "https://cf.geekdo-images.com/e3QUqAvnMUL5LSffaSZkMw__itemrep@2x/img/6P4WWWnKbrDtSKyAQEN1cvb9LLE=/fit-in/492x600/filters:strip_icc()/pic5649939.jpg",
@@ -33913,12 +32938,7 @@
     "Alan R. Moon"
    ],
    "edition": "Multilingual second edition · Danish; Dutch; English; French; German; Italian; Japanese; Norwegian; Polish; Spanish; Swedish · Days of Wonder",
-   "expands": [
-    {
-     "id": 14996,
-     "name": "Ticket to Ride: Europe"
-    }
-   ],
+   "expands": [],
    "h": 533,
    "id": 89848,
    "image": "https://cf.geekdo-images.com/7LkLdARDV_UGaMFKjNuRlA__itemrep@2x/img/3y_XOtLK6x7fxVBrTCFOxXO-Y48=/fit-in/492x600/filters:strip_icc()/pic2766368.jpg",
@@ -34117,7 +33137,7 @@
    "myRating": 10.0,
    "name": "Ticket to Ride: Europe",
    "originalName": "Ticket to Ride: Europe",
-   "ownedExpansions": 2,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -34283,12 +33303,7 @@
     "Alan R. Moon"
    ],
    "edition": "Multilingual edition · Danish; Dutch; English; Finnish; French; German; Norwegian; Swedish · Days of Wonder; Lautapelit.fi",
-   "expands": [
-    {
-     "id": 14996,
-     "name": "Ticket to Ride: Europe"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 38454,
    "image": "https://cf.geekdo-images.com/SK8y0CtOXpsTrE9rajpjvQ__itemrep/img/p70mr3aKSML7S7USztr1aFT__-I=/fit-in/246x300/filters:strip_icc()/pic372893.jpg",
@@ -34807,7 +33822,7 @@
    "myRating": 10.0,
    "name": "Two Rooms and a Boom",
    "originalName": "Two Rooms and a Boom",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -34873,12 +33888,7 @@
     "Sean McCoy"
    ],
    "edition": "English edition · English · Tuesday Knight Games",
-   "expands": [
-    {
-     "id": 134352,
-     "name": "Two Rooms and a Boom"
-    }
-   ],
+   "expands": [],
    "h": 600,
    "id": 219444,
    "image": "https://cf.geekdo-images.com/HGYDv1gTVCPNA-enFVhUsA__itemrep@2x/img/-W2OU5Fuslk8lDSCqRSeZe9Ni9A=/fit-in/492x600/filters:strip_icc()/pic3430425.png",
@@ -34969,7 +33979,7 @@
    "myRating": null,
    "name": "Tzolk'in: Il Calendario Maya",
    "originalName": "Tzolk'in: The Mayan Calendar",
-   "ownedExpansions": 1,
+   "ownedExpansions": 0,
    "play": {
     "bga": {
      "beta": false,
@@ -35022,12 +34032,7 @@
     "Daniele Tascini"
    ],
    "edition": "English edition · English; (neutral) · Czech Games Edition (CGE)",
-   "expands": [
-    {
-     "id": 126163,
-     "name": "Tzolk'in: Il Calendario Maya"
-    }
-   ],
+   "expands": [],
    "h": 300,
    "id": 142580,
    "image": "https://cf.geekdo-images.com/NOCRnbPv5tX02VWTZh-sRg__itemrep/img/XiGftRA5hKHN0RG3DcJ6CUjDlAM=/fit-in/246x300/filters:strip_icc()/pic1664208.jpg",
@@ -36339,7 +35344,7 @@
    "year": 2016
   }
  ],
- "generatedAt": "2026-09-19T11:56:05Z",
+ "generatedAt": "2026-09-20T09:50:24Z",
  "source": "csv",
  "username": "sirmmo"
 }
