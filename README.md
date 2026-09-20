@@ -25,6 +25,25 @@ behind it — which is why every recess reads as the same depth.
 The site is plain HTML, CSS and JavaScript: no build step, no dependencies, and
 no runtime calls to BGG. Covers are served from this repo, never hotlinked.
 
+## Where you can actually play them
+
+`scripts/link_play.py` attaches each shelved game to its playable counterparts,
+matched on **BoardGameGeek id** — never on titles, since this collection is
+largely in Italian and name matching would be hopeless.
+
+- **Board Game Arena** publishes a game list that embeds `bgg_id` for every
+  game, so the mapping comes from BGA itself rather than being guessed.
+- **JustPlay** (the club's own launcher) has each pack declare the `bgg` id of
+  the game it implements. One game can have several packs — Scotland Yard ships
+  three board variants, and all three show up.
+
+Both catalogues are snapshotted into `site/data/`, so a sync still works, and
+the site still links, when either is unreachable.
+
+The shelf then gets a **Play** filter (Board Game Arena / JustPlay / playable
+anywhere / shelf only), a ▶ badge on any cubby with an online counterpart, and
+the links themselves in the detail panel.
+
 ### Two sources
 
 **`scripts/import_csv.py` — a CSV export, no credentials needed.** This is what

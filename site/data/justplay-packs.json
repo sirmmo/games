@@ -1,0 +1,56 @@
+[
+ {
+  "bgg": 59959,
+  "id": "whitechapel",
+  "name": "Whitechapel \u2014 Stay At Home",
+  "ref": "packs/whitechapel.json"
+ },
+ {
+  "bgg": 171,
+  "id": "chess",
+  "name": "Chess \u2014 open table",
+  "ref": "packs/chess.json"
+ },
+ {
+  "bgg": 188,
+  "id": "go",
+  "name": "Go \u2014 19\u00d719 goban",
+  "ref": "packs/go.json"
+ },
+ {
+  "bgg": 11901,
+  "id": "tictactoe",
+  "name": "Tic-Tac-Toe \u2014 enforced",
+  "ref": "packs/tictactoe.json"
+ },
+ {
+  "bgg": 2719,
+  "id": "connect4",
+  "name": "Connect Four \u2014 enforced",
+  "ref": "packs/connect4.json"
+ },
+ {
+  "bgg": 11929,
+  "id": "gomoku",
+  "name": "Gomoku (Five in a Row) \u2014 enforced",
+  "ref": "packs/gomoku.json"
+ },
+ {
+  "bgg": 438,
+  "id": "scotlandyard",
+  "name": "Scotland Yard",
+  "ref": "packs/scotlandyard.json"
+ },
+ {
+  "bgg": 438,
+  "id": "scotlandyard-original",
+  "name": "Scotland Yard \u2014 original board",
+  "ref": "packs/scotlandyard-original.json"
+ },
+ {
+  "bgg": 438,
+  "id": "scotlandyard-aerial",
+  "name": "Scotland Yard \u2014 satellite",
+  "ref": "packs/scotlandyard-aerial.json"
+ }
+]

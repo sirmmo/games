@@ -251,7 +251,7 @@ select {
 
 .cubby__plate {
   position: absolute; inset: auto 0 0 0;
-  padding: 1.6em .7em .5em;
+  padding: 1.6em 2.2em .5em .7em;
   background: linear-gradient(180deg, transparent, rgb(0 0 0 / .78));
   color: #fff;
   font-size: clamp(.64rem, 1.05vw, .8rem);
@@ -390,3 +390,31 @@ select {
 .colophon p { margin: .2rem 0; }
 .colophon__fine { opacity: .8; }
 .colophon a { color: inherit; }
+
+/* ---- playable elsewhere: the shelf's counterparts online --------------- */
+
+.cubby__play {
+  position: absolute; right: .5em; bottom: .5em;
+  width: 1.5em; height: 1.5em; line-height: 1.5em; text-align: center;
+  font-size: clamp(.58rem, .95vw, .72rem);
+  color: #fff; background: rgb(0 0 0 / .55);
+  border-radius: 50%; backdrop-filter: blur(2px);
+}
+/* a JustPlay pack is ours, so it outranks the public catalogue */
+.cubby__play--jp { background: var(--accent); }
+
+.detail__play { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 .9rem; }
+
+.detail__link--bga { background: #1f6f4a; }
+.detail__link--jp  { background: #6b3fa0; }
+.detail__link--ghost {
+  color: var(--ink-soft); background: transparent;
+  border: 1px solid rgb(35 32 24 / .25);
+}
+.detail__link--ghost:hover { color: var(--ink); border-color: var(--ink-soft); }
+
+.beta {
+  margin-left: .35em; padding: .05em .4em;
+  font-size: .72em; font-weight: 700; text-transform: uppercase; letter-spacing: .05em;
+  background: rgb(255 255 255 / .22); border-radius: 999px;
+}

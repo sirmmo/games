@@ -49,6 +49,17 @@
     return (lo ?? 1) <= n && n <= (hi ?? 99);
   }
 
+  function matchesWhere(g, where) {
+    const play = g.play || {};
+    const bga = !!play.bga;
+    const jp = !!(play.justplay && play.justplay.length);
+    if (where === 'bga') return bga;
+    if (where === 'justplay') return jp;
+    if (where === 'any') return bga || jp;
+    if (where === 'shelf') return !bga && !jp;
+    return true;
+  }
+
   function inRange(value, spec) {
     if (!spec) return true;
     if (value === null) return false;
@@ -58,7 +69,10 @@
 
   function haystack(g) {
     if (!g._hay) {
+      const play = g.play || {};
       g._hay = [g.name, g.originalName, g.year, g.edition,
+        play.bga ? 'bga boardgamearena online ' + play.bga.slug : '',
+        (play.justplay || []).length ? 'justplay online ' + play.justplay.map((p) => p.id).join(' ') : '',
         ...(g.designers || []), ...(g.mechanics || []),
         ...(g.categories || []), ...(g.publishers || [])].join(' ').toLowerCase();
     }
@@ -80,6 +94,7 @@
     const players = Number($('#players').value) || 0;
     const time = $('#time').value;
     const weight = $('#weight').value;
+    const where = $('#play').value;
     const sortKey = $('#sort').value;
     const withExp = $('#show-exp').checked;
 
@@ -90,6 +105,7 @@
       if (!matchesPlayers(g, players)) return false;
       if (!inRange(playtimeOf(g), time)) return false;
       if (!inRange(num(g.weight), weight)) return false;
+      if (where && !matchesWhere(g, where)) return false;
       if (terms.length) {
         const hay = haystack(g);
         if (!terms.every((t) => hay.includes(t))) return false;
@@ -115,6 +131,10 @@
       ? `<span class="cubby__chip cubby__chip--rated">${mine.toFixed(mine % 1 ? 1 : 0)}</span>`
       : '';
     const owned = g.ownedExpansions || 0;
+    const play = g.play || {};
+    const online = (play.justplay && play.justplay.length)
+      ? '<span class="cubby__play cubby__play--jp" title="Playable on JustPlay">▶</span>'
+      : (play.bga ? '<span class="cubby__play" title="Playable on Board Game Arena">▶</span>' : '');
     const exp = g.isExpansion
       ? '<span class="cubby__exp" title="Expansion">+</span>'
       : (owned ? `<span class="cubby__exp cubby__exp--owned" title="${owned} expansion${owned > 1 ? 's' : ''} on the shelf">+${owned}</span>` : '');
@@ -125,7 +145,7 @@
       : '<span class="cubby__box" aria-hidden="true"></span>';
 
     return `<button type="button" class="cubby" data-id="${esc(g.id)}"${tint}>
-      ${art}${chip}${exp}
+      ${art}${chip}${exp}${online}
       <span class="cubby__plate"><span>${esc(g.name)}${year}</span></span>
     </button>`;
   }
@@ -192,6 +212,20 @@
     return one || hi || lo ? `${one || hi || lo} min` : '';
   }
 
+  // Where this game can actually be played, beside the shelf it sits on.
+  function playLinks(g) {
+    const play = g.play || {};
+    const out = [];
+    (play.justplay || []).forEach((p) => {
+      out.push(`<a class="detail__link detail__link--jp" href="${esc(p.url)}" target="_blank" rel="noopener">▶ ${esc(p.name)} on JustPlay</a>`);
+    });
+    if (play.bga) {
+      const beta = play.bga.beta ? ' <span class="beta">beta</span>' : '';
+      out.push(`<a class="detail__link detail__link--bga" href="${esc(play.bga.url)}" target="_blank" rel="noopener">▶ Play on Board Game Arena${beta}</a>`);
+    }
+    return out.length ? `<div class="detail__play">${out.join('')}</div>` : '';
+  }
+
   function openDetail(id) {
     const g = state.games.find((x) => String(x.id) === String(id));
     if (!g) return;
@@ -233,7 +267,8 @@
         ${(g.expands || []).length ? `<p class="tags"><b>Expands</b> ${esc(g.expands.map((e) => e.name).join(' · '))}</p>` : ''}
         ${g.edition ? `<p class="tags"><b>My copy</b> ${esc(g.edition)}</p>` : ''}
         ${g.comment ? `<p class="tags"><b>Note</b> ${esc(g.comment)}</p>` : ''}
-        <a class="detail__link" href="${esc(g.url)}" target="_blank" rel="noopener">View on BoardGameGeek →</a>
+        ${playLinks(g)}
+        <a class="detail__link detail__link--ghost" href="${esc(g.url)}" target="_blank" rel="noopener">View on BoardGameGeek →</a>
       </div>`;
 
     if (!dialog.open) dialog.showModal();
@@ -261,7 +296,7 @@
 
   /* -------------------------------------------------------------------- boot */
 
-  ['#q', '#players', '#time', '#weight', '#sort', '#show-exp'].forEach((sel) => {
+  ['#q', '#players', '#time', '#weight', '#play', '#sort', '#show-exp'].forEach((sel) => {
     const el = $(sel);
     el.addEventListener(el.tagName === 'INPUT' && el.type === 'search' ? 'input' : 'change', apply);
   });

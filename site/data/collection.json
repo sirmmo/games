@@ -2,6 +2,8 @@
  "counts": {
   "expansions": 216,
   "games": 348,
+  "onBga": 62,
+  "onJustPlay": 3,
   "plays": 162
  },
  "games": [
@@ -120,6 +122,14 @@
    "name": "7 Wonders",
    "originalName": "7 Wonders",
    "ownedExpansions": 6,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "sevenwonders",
+     "title": "7 Wonders",
+     "url": "https://boardgamearena.com/gamepanel?game=sevenwonders"
+    }
+   },
    "playingTime": 30,
    "plays": 11,
    "publishers": [
@@ -195,6 +205,14 @@
    "name": "7 Wonders Duel",
    "originalName": "7 Wonders Duel",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "sevenwondersduel",
+     "title": "7 Wonders Duel",
+     "url": "https://boardgamearena.com/gamepanel?game=sevenwondersduel"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -3559,6 +3577,14 @@
    "name": "After Us",
    "originalName": "After Us",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "afterus",
+     "title": "After Us",
+     "url": "https://boardgamearena.com/gamepanel?game=afterus"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -3623,6 +3649,14 @@
    "name": "Agent Avenue",
    "originalName": "Agent Avenue",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "agentavenue",
+     "title": "Agent Avenue",
+     "url": "https://boardgamearena.com/gamepanel?game=agentavenue"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -3751,6 +3785,14 @@
    "name": "Alchimisti",
    "originalName": "Alchemists",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": true,
+     "slug": "alchemists",
+     "title": "Alchemists",
+     "url": "https://boardgamearena.com/gamepanel?game=alchemists"
+    }
+   },
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -3875,6 +3917,14 @@
    "name": "Alhambra",
    "originalName": "Alhambra",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "alhambra",
+     "title": "Alhambra",
+     "url": "https://boardgamearena.com/gamepanel?game=alhambra"
+    }
+   },
    "playingTime": 60,
    "plays": 1,
    "publishers": [
@@ -4128,6 +4178,14 @@
    "name": "Altay: L'Alba della Civiltà",
    "originalName": "Altay: Dawn of Civilization",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "altay",
+     "title": "Altay: Dawn of Civilization",
+     "url": "https://boardgamearena.com/gamepanel?game=altay"
+    }
+   },
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -5614,6 +5672,14 @@
    "name": "Azul Duel",
    "originalName": "Azul Duel",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "azulduel",
+     "title": "Azul Duel",
+     "url": "https://boardgamearena.com/gamepanel?game=azulduel"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -5676,6 +5742,14 @@
    "name": "Azul Mini",
    "originalName": "Azul",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "azul",
+     "title": "Azul",
+     "url": "https://boardgamearena.com/gamepanel?game=azul"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -6500,6 +6574,14 @@
    "name": "Bonsai",
    "originalName": "Bonsai",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "bonsai",
+     "title": "Bonsai",
+     "url": "https://boardgamearena.com/gamepanel?game=bonsai"
+    }
+   },
    "playingTime": 40,
    "plays": 0,
    "publishers": [
@@ -7120,6 +7202,14 @@
    "name": "Canvas",
    "originalName": "Canvas",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "canvas",
+     "title": "Canvas",
+     "url": "https://boardgamearena.com/gamepanel?game=canvas"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -7322,6 +7412,14 @@
    "name": "Carcassonne",
    "originalName": "Carcassonne",
    "ownedExpansions": 12,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "carcassonne",
+     "title": "Carcassonne",
+     "url": "https://boardgamearena.com/gamepanel?game=carcassonne"
+    }
+   },
    "playingTime": 45,
    "plays": 15,
    "publishers": [
@@ -9098,6 +9196,14 @@
    "name": "Cat in the Box",
    "originalName": "Cat in the Box: Deluxe Edition",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "catinthebox",
+     "title": "Cat in the Box: Deluxe Edition",
+     "url": "https://boardgamearena.com/gamepanel?game=catinthebox"
+    }
+   },
    "playingTime": 40,
    "plays": 0,
    "publishers": [
@@ -9469,6 +9575,21 @@
    "name": "Chess",
    "originalName": "Chess",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "chess",
+     "title": "Chess",
+     "url": "https://boardgamearena.com/gamepanel?game=chess"
+    },
+    "justplay": [
+     {
+      "id": "chess",
+      "name": "Chess — open table",
+      "url": "https://launcher.justplaybo.it/?game=packs/chess.json"
+     }
+    ]
+   },
    "playingTime": null,
    "plays": 0,
    "publishers": [
@@ -10324,6 +10445,14 @@
    "name": "Coloni di Catan, I",
    "originalName": "Catan",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "catan",
+     "title": "CATAN",
+     "url": "https://boardgamearena.com/gamepanel?game=catan"
+    }
+   },
    "playingTime": 120,
    "plays": 6,
    "publishers": [
@@ -11254,6 +11383,14 @@
    "name": "Decrypto",
    "originalName": "Decrypto",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "decrypto",
+     "title": "Decrypto",
+     "url": "https://boardgamearena.com/gamepanel?game=decrypto"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -11697,6 +11834,14 @@
    "name": "Dice Forge",
    "originalName": "Dice Forge",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "diceforge",
+     "title": "Dice Forge",
+     "url": "https://boardgamearena.com/gamepanel?game=diceforge"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -11828,6 +11973,14 @@
    "name": "Die Schlösser des König Ludwig",
    "originalName": "Castles of Mad King Ludwig",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "castleofmadkingludwig",
+     "title": "Castles of Mad King Ludwig",
+     "url": "https://boardgamearena.com/gamepanel?game=castleofmadkingludwig"
+    }
+   },
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -12593,6 +12746,14 @@
    "name": "Dobble",
    "originalName": "Spot it!",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "dobble",
+     "title": "Spot it",
+     "url": "https://boardgamearena.com/gamepanel?game=dobble"
+    }
+   },
    "playingTime": 15,
    "plays": 0,
    "publishers": [
@@ -14124,6 +14285,14 @@
    "name": "Echoes of Time",
    "originalName": "Echoes of Time",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": true,
+     "slug": "echoesoftime",
+     "title": "Echoes of Time",
+     "url": "https://boardgamearena.com/gamepanel?game=echoesoftime"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -15861,6 +16030,14 @@
    "name": "Forbidden Island",
    "originalName": "Forbidden Island",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "forbiddenisland",
+     "title": "Forbidden Island",
+     "url": "https://boardgamearena.com/gamepanel?game=forbiddenisland"
+    }
+   },
    "playingTime": 30,
    "plays": 3,
    "publishers": [
@@ -15927,6 +16104,14 @@
    "name": "Forest Shuffle",
    "originalName": "Forest Shuffle",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "forestshuffle",
+     "title": "Forest Shuffle",
+     "url": "https://boardgamearena.com/gamepanel?game=forestshuffle"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -16113,6 +16298,21 @@
    "name": "Forza 4",
    "originalName": "Connect Four",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "connectfour",
+     "title": "Connect 4",
+     "url": "https://boardgamearena.com/gamepanel?game=connectfour"
+    },
+    "justplay": [
+     {
+      "id": "connect4",
+      "name": "Connect Four — enforced",
+      "url": "https://launcher.justplaybo.it/?game=packs/connect4.json"
+     }
+    ]
+   },
    "playingTime": 10,
    "plays": 3,
    "publishers": [
@@ -16229,6 +16429,14 @@
    "name": "Gizmos",
    "originalName": "Gizmos",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "gizmos",
+     "title": "Gizmos",
+     "url": "https://boardgamearena.com/gamepanel?game=gizmos"
+    }
+   },
    "playingTime": 50,
    "plays": 0,
    "publishers": [
@@ -16659,6 +16867,14 @@
    "name": "Heat",
    "originalName": "Heat: Pedal to the Metal",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "heat",
+     "title": "Heat: Pedal to the Metal",
+     "url": "https://boardgamearena.com/gamepanel?game=heat"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -16724,6 +16940,14 @@
    "name": "Hens",
    "originalName": "Hens",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "hens",
+     "title": "Hens",
+     "url": "https://boardgamearena.com/gamepanel?game=hens"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -17236,6 +17460,14 @@
    "name": "I Castelli della Borgogna",
    "originalName": "The Castles of Burgundy",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "castlesofburgundy",
+     "title": "The Castles of Burgundy",
+     "url": "https://boardgamearena.com/gamepanel?game=castlesofburgundy"
+    }
+   },
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -18427,6 +18659,14 @@
    "name": "It's a Wonderful World",
    "originalName": "It's a Wonderful World",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "itsawonderfulworld",
+     "title": "It's a Wonderful World",
+     "url": "https://boardgamearena.com/gamepanel?game=itsawonderfulworld"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -18627,6 +18867,14 @@
    "name": "Just One",
    "originalName": "Just One",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "justone",
+     "title": "Just One",
+     "url": "https://boardgamearena.com/gamepanel?game=justone"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -19225,6 +19473,14 @@
    "name": "Krosmaster: Arena",
    "originalName": "Krosmaster: Arena",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "krosmasterarena",
+     "title": "Krosmaster Arena",
+     "url": "https://boardgamearena.com/gamepanel?game=krosmasterarena"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -19784,6 +20040,14 @@
    "name": "La volpe nel bosco",
    "originalName": "The Fox in the Forest",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "thefoxintheforest",
+     "title": "The Fox in the Forest",
+     "url": "https://boardgamearena.com/gamepanel?game=thefoxintheforest"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -20657,6 +20921,14 @@
    "name": "Le Strade d'Inchiostro: Edizione Blu Profondo",
    "originalName": "Railroad Ink: Deep Blue Edition",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "railroadink",
+     "title": "Railroad Ink",
+     "url": "https://boardgamearena.com/gamepanel?game=railroadink"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -20792,6 +21064,14 @@
    "name": "Let's Go! To Japan",
    "originalName": "Let's Go! To Japan",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "letsgotojapan",
+     "title": "Let's Go! To Japan",
+     "url": "https://boardgamearena.com/gamepanel?game=letsgotojapan"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -20916,6 +21196,14 @@
    "name": "Lewis & Clark: The Expedition",
    "originalName": "Lewis & Clark: The Expedition",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "lewisclark",
+     "title": "Lewis & Clark",
+     "url": "https://boardgamearena.com/gamepanel?game=lewisclark"
+    }
+   },
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -22244,6 +22532,14 @@
    "name": "Mind MGMT: The Psychic Espionage “Game.”",
    "originalName": "Mind MGMT: The Psychic Espionage “Game.”",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "mindmgmt",
+     "title": "Mind MGMT",
+     "url": "https://boardgamearena.com/gamepanel?game=mindmgmt"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -23344,6 +23640,14 @@
    "name": "Newton",
    "originalName": "Newton",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "newton",
+     "title": "Newton",
+     "url": "https://boardgamearena.com/gamepanel?game=newton"
+    }
+   },
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -23725,6 +24029,14 @@
    "name": "Onitama",
    "originalName": "Onitama",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "onitama",
+     "title": "Onitama",
+     "url": "https://boardgamearena.com/gamepanel?game=onitama"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -23957,6 +24269,14 @@
    "name": "Othello",
    "originalName": "Othello",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "reversi",
+     "title": "Reversi",
+     "url": "https://boardgamearena.com/gamepanel?game=reversi"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -24094,6 +24414,14 @@
    "name": "Pandemic",
    "originalName": "Pandemic",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "pandemic",
+     "title": "Pandemic",
+     "url": "https://boardgamearena.com/gamepanel?game=pandemic"
+    }
+   },
    "playingTime": 45,
    "plays": 8,
    "publishers": [
@@ -24420,6 +24748,14 @@
    "name": "Point City",
    "originalName": "Point City",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": true,
+     "slug": "pointcity",
+     "title": "Point City",
+     "url": "https://boardgamearena.com/gamepanel?game=pointcity"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -24541,6 +24877,14 @@
    "name": "Pozioni Esplosive",
    "originalName": "Potion Explosion",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "potionexplosion",
+     "title": "Potion Explosion",
+     "url": "https://boardgamearena.com/gamepanel?game=potionexplosion"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -24797,6 +25141,14 @@
    "name": "Puerto Rico",
    "originalName": "Puerto Rico",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "puertorico",
+     "title": "Puerto Rico",
+     "url": "https://boardgamearena.com/gamepanel?game=puertorico"
+    }
+   },
    "playingTime": 150,
    "plays": 0,
    "publishers": [
@@ -25167,6 +25519,14 @@
    "name": "Quarto!",
    "originalName": "Quarto",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "quarto",
+     "title": "Quarto",
+     "url": "https://boardgamearena.com/gamepanel?game=quarto"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -25300,6 +25660,14 @@
    "name": "Quoridor Mini",
    "originalName": "Quoridor",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "quoridor",
+     "title": "Quoridor",
+     "url": "https://boardgamearena.com/gamepanel?game=quoridor"
+    }
+   },
    "playingTime": 15,
    "plays": 0,
    "publishers": [
@@ -25366,6 +25734,14 @@
    "name": "Race for the Galaxy",
    "originalName": "Race for the Galaxy",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "raceforthegalaxy",
+     "title": "Race for the Galaxy",
+     "url": "https://boardgamearena.com/gamepanel?game=raceforthegalaxy"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -25553,6 +25929,14 @@
    "name": "Regicide",
    "originalName": "Regicide",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "regicide",
+     "title": "Regicide",
+     "url": "https://boardgamearena.com/gamepanel?game=regicide"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -25732,6 +26116,14 @@
    "name": "Res Arcana",
    "originalName": "Res Arcana",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "resarcana",
+     "title": "Res Arcana",
+     "url": "https://boardgamearena.com/gamepanel?game=resarcana"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -26100,6 +26492,14 @@
    "name": "Room 25",
    "originalName": "Room 25",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": true,
+     "slug": "roomtwentyfive",
+     "title": "Room 25",
+     "url": "https://boardgamearena.com/gamepanel?game=roomtwentyfive"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -26284,6 +26684,14 @@
    "name": "Santorini",
    "originalName": "Santorini",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "santorini",
+     "title": "Santorini",
+     "url": "https://boardgamearena.com/gamepanel?game=santorini"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -26485,6 +26893,25 @@
    "name": "Scotland Yard",
    "originalName": "Scotland Yard",
    "ownedExpansions": 0,
+   "play": {
+    "justplay": [
+     {
+      "id": "scotlandyard",
+      "name": "Scotland Yard",
+      "url": "https://launcher.justplaybo.it/?game=packs/scotlandyard.json"
+     },
+     {
+      "id": "scotlandyard-aerial",
+      "name": "Scotland Yard — satellite",
+      "url": "https://launcher.justplaybo.it/?game=packs/scotlandyard-aerial.json"
+     },
+     {
+      "id": "scotlandyard-original",
+      "name": "Scotland Yard — original board",
+      "url": "https://launcher.justplaybo.it/?game=packs/scotlandyard-original.json"
+     }
+    ]
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -27533,6 +27960,14 @@
    "name": "Small World",
    "originalName": "Small World",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "smallworld",
+     "title": "Small World",
+     "url": "https://boardgamearena.com/gamepanel?game=smallworld"
+    }
+   },
    "playingTime": 80,
    "plays": 0,
    "publishers": [
@@ -28042,6 +28477,14 @@
    "name": "Splendor",
    "originalName": "Splendor",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "splendor",
+     "title": "Splendor",
+     "url": "https://boardgamearena.com/gamepanel?game=splendor"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -31760,6 +32203,14 @@
    "name": "Terraforming Mars",
    "originalName": "Terraforming Mars",
    "ownedExpansions": 5,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "terraformingmars",
+     "title": "Terraforming Mars",
+     "url": "https://boardgamearena.com/gamepanel?game=terraformingmars"
+    }
+   },
    "playingTime": 120,
    "plays": 0,
    "publishers": [
@@ -32316,6 +32767,14 @@
    "name": "The Crew: Alla Scoperta del Pianeta Nove",
    "originalName": "The Crew: The Quest for Planet Nine",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "thecrew",
+     "title": "The Crew",
+     "url": "https://boardgamearena.com/gamepanel?game=thecrew"
+    }
+   },
    "playingTime": 20,
    "plays": 0,
    "publishers": [
@@ -32504,6 +32963,14 @@
    "name": "The Great Split",
    "originalName": "The Great Split",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "greatsplit",
+     "title": "The Great Split",
+     "url": "https://boardgamearena.com/gamepanel?game=greatsplit"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -33079,6 +33546,14 @@
    "name": "The Palaces of Carrara",
    "originalName": "The Palaces of Carrara",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "carrara",
+     "title": "The Palaces of Carrara",
+     "url": "https://boardgamearena.com/gamepanel?game=carrara"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -33137,6 +33612,14 @@
    "name": "Thrive",
    "originalName": "Thrive",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "thrive",
+     "title": "Thrive",
+     "url": "https://boardgamearena.com/gamepanel?game=thrive"
+    }
+   },
    "playingTime": 30,
    "plays": 0,
    "publishers": [
@@ -33245,6 +33728,14 @@
    "name": "Thurn und Taxis",
    "originalName": "Thurn and Taxis",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "thurnandtaxis",
+     "title": "Thurn and Taxis",
+     "url": "https://boardgamearena.com/gamepanel?game=thurnandtaxis"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -33309,6 +33800,14 @@
    "name": "Ticket to Ride",
    "originalName": "Ticket to Ride",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "tickettoride",
+     "title": "Ticket to Ride",
+     "url": "https://boardgamearena.com/gamepanel?game=tickettoride"
+    }
+   },
    "playingTime": 60,
    "plays": 0,
    "publishers": [
@@ -33619,6 +34118,14 @@
    "name": "Ticket to Ride: Europe",
    "originalName": "Ticket to Ride: Europe",
    "ownedExpansions": 2,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "tickettorideeurope",
+     "title": "Ticket to Ride: Europe",
+     "url": "https://boardgamearena.com/gamepanel?game=tickettorideeurope"
+    }
+   },
    "playingTime": 60,
    "plays": 2,
    "publishers": [
@@ -33982,6 +34489,14 @@
    "name": "Tokaido",
    "originalName": "Tokaido",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "tokaido",
+     "title": "Tokaido",
+     "url": "https://boardgamearena.com/gamepanel?game=tokaido"
+    }
+   },
    "playingTime": 45,
    "plays": 0,
    "publishers": [
@@ -34455,6 +34970,14 @@
    "name": "Tzolk'in: Il Calendario Maya",
    "originalName": "Tzolk'in: The Mayan Calendar",
    "ownedExpansions": 1,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "tzolkin",
+     "title": "Tzolk'in",
+     "url": "https://boardgamearena.com/gamepanel?game=tzolkin"
+    }
+   },
    "playingTime": 90,
    "plays": 0,
    "publishers": [
@@ -35011,6 +35534,14 @@
    "name": "VektoRace",
    "originalName": "VektoRace",
    "ownedExpansions": 0,
+   "play": {
+    "bga": {
+     "beta": false,
+     "slug": "vektorace",
+     "title": "VektoRace",
+     "url": "https://boardgamearena.com/gamepanel?game=vektorace"
+    }
+   },
    "playingTime": 120,
    "plays": 2,
    "publishers": [

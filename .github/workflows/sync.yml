@@ -78,8 +78,16 @@ jobs:
             echo "fresh CSV is committed. Add the secret for a real daily sync."
           } >> "$GITHUB_STEP_SUMMARY"
 
+      # Links refresh independently of the collection: Board Game Arena adds
+      # games, and a new JustPlay pack should reach the shelf without a resync.
+      - name: Link playable counterparts
+        id: link
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/link_play.py
+
       - name: Commit refreshed collection
-        if: steps.sync.outcome == 'success' || steps.import.outcome == 'success'
+        if: steps.sync.outcome == 'success' || steps.import.outcome == 'success' || steps.link.outcome == 'success'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
