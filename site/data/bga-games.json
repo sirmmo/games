@@ -1116,6 +1116,12 @@
   "title": "Cat in the Box: Deluxe Edition"
  },
  {
+  "bgg": 430023,
+  "slug": "catopomp",
+  "status": "beta",
+  "title": "Catopomp"
+ },
+ {
   "bgg": 405460,
   "slug": "catslebuilders",
   "status": "public",
@@ -1264,6 +1270,12 @@
   "slug": "cinco",
   "status": "public",
   "title": "Cinco"
+ },
+ {
+  "bgg": 454399,
+  "slug": "circadia",
+  "status": "beta",
+  "title": "Circadia"
  },
  {
   "bgg": 184730,
@@ -2164,6 +2176,12 @@
   "slug": "elawa",
   "status": "public",
   "title": "Elawa"
+ },
+ {
+  "bgg": 462761,
+  "slug": "electrify",
+  "status": "beta",
+  "title": "Electrify"
  },
  {
   "bgg": 10,
@@ -3594,6 +3612,12 @@
   "title": "Karvi"
  },
  {
+  "bgg": 374595,
+  "slug": "kelp",
+  "status": "beta",
+  "title": "Kelp"
+ },
+ {
   "bgg": 122515,
   "slug": "keyflower",
   "status": "public",
@@ -4702,6 +4726,12 @@
   "slug": "nibble",
   "status": "public",
   "title": "Nibble"
+ },
+ {
+  "bgg": 389814,
+  "slug": "nicetoknowanimals",
+  "status": "beta",
+  "title": "Nice to Know! Animals"
  },
  {
   "bgg": 334644,
@@ -5842,6 +5872,12 @@
   "slug": "rivervalleyglassworks",
   "status": "public",
   "title": "River Valley Glassworks"
+ },
+ {
+  "bgg": 451982,
+  "slug": "roadmaster",
+  "status": "beta",
+  "title": "Road Master"
  },
  {
   "bgg": 414816,
@@ -7464,6 +7500,12 @@
   "title": "Trickarus"
  },
  {
+  "bgg": 435687,
+  "slug": "tricknchef",
+  "status": "beta",
+  "title": "Trick-n-Chef"
+ },
+ {
   "bgg": 118497,
   "slug": "trickoftherails",
   "status": "public",
@@ -7830,6 +7872,12 @@
   "title": "Volto"
  },
  {
+  "bgg": 350736,
+  "slug": "voyages",
+  "status": "beta",
+  "title": "Voyages"
+ },
+ {
   "bgg": 175,
   "slug": "vultureculture",
   "status": "public",
@@ -7918,6 +7966,12 @@
   "slug": "widgetsndigits",
   "status": "beta",
   "title": "Widgets n' Digit$"
+ },
+ {
+  "bgg": 298371,
+  "slug": "wildspace",
+  "status": "beta",
+  "title": "Wild Space"
  },
  {
   "bgg": 266192,
