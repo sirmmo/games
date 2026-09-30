@@ -2538,6 +2538,12 @@
   "title": "FlipToons"
  },
  {
+  "bgg": 461529,
+  "slug": "flipwars",
+  "status": "beta",
+  "title": "Flipwars"
+ },
+ {
   "bgg": 446669,
   "slug": "flockers",
   "status": "beta",
@@ -3456,6 +3462,12 @@
   "title": "Isaac"
  },
  {
+  "bgg": 477354,
+  "slug": "isleofbears",
+  "status": "beta",
+  "title": "Isle of Bears"
+ },
+ {
   "bgg": 355224,
   "slug": "isleoftrainsallaboard",
   "status": "public",
@@ -3958,6 +3970,12 @@
   "slug": "linkage",
   "status": "public",
   "title": "Linkage"
+ },
+ {
+  "bgg": 431290,
+  "slug": "linkx",
+  "status": "beta",
+  "title": "Linkx"
  },
  {
   "bgg": 399757,
