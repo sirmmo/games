@@ -4670,7 +4670,7 @@
  {
   "bgg": 381248,
   "slug": "nemesisretaliation",
-  "status": "beta",
+  "status": "public",
   "title": "Nemesis: Retaliation"
  },
  {
@@ -7678,6 +7678,12 @@
   "slug": "ubongo",
   "status": "public",
   "title": "Ubongo"
+ },
+ {
+  "bgg": 414176,
+  "slug": "ultimatch",
+  "status": "beta",
+  "title": "Ultimatch"
  },
  {
   "bgg": 329591,
