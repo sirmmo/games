@@ -2694,6 +2694,12 @@
   "title": "French Tarot"
  },
  {
+  "bgg": 457008,
+  "slug": "friendlyfishing",
+  "status": "beta",
+  "title": "Friendly Fishing"
+ },
+ {
   "bgg": 384213,
   "slug": "fromage",
   "status": "public",
