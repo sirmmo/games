@@ -246,6 +246,12 @@
   "title": "Arboretum"
  },
  {
+  "bgg": 455229,
+  "slug": "archipels",
+  "status": "beta",
+  "title": "Archipels"
+ },
+ {
   "bgg": 415910,
   "slug": "architectsofamytis",
   "status": "public",
@@ -6868,6 +6874,12 @@
   "slug": "takenokolor",
   "status": "public",
   "title": "Takenokolor"
+ },
+ {
+  "bgg": 440540,
+  "slug": "taketime",
+  "status": "beta",
+  "title": "Take Time"
  },
  {
   "bgg": 460372,
