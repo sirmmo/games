@@ -18,6 +18,12 @@
   "title": "Abra Chadabra"
  },
  {
+  "bgg": 437337,
+  "slug": "abroad",
+  "status": "beta",
+  "title": "Abroad"
+ },
+ {
   "bgg": 155987,
   "slug": "abyss",
   "status": "public",
@@ -1728,6 +1734,12 @@
   "title": "Deliverance"
  },
  {
+  "bgg": 22477,
+  "slug": "deluxecamping",
+  "status": "beta",
+  "title": "Deluxe Camping"
+ },
+ {
   "bgg": 329640,
   "slug": "detectivepoker",
   "status": "public",
@@ -2146,6 +2158,12 @@
   "slug": "eck",
   "status": "public",
   "title": "ECK"
+ },
+ {
+  "bgg": 474648,
+  "slug": "edgecut",
+  "status": "beta",
+  "title": "Edgecut"
  },
  {
   "bgg": 300226,
@@ -2626,6 +2644,12 @@
   "slug": "forex",
   "status": "public",
   "title": "For-Ex"
+ },
+ {
+  "bgg": 435877,
+  "slug": "forfort",
+  "status": "beta",
+  "title": "Forfort"
  },
  {
   "bgg": 404233,
@@ -3862,6 +3886,12 @@
   "slug": "lasvegan",
   "status": "public",
   "title": "Las Vegan"
+ },
+ {
+  "bgg": 374201,
+  "slug": "lata",
+  "status": "beta",
+  "title": "Lata"
  },
  {
   "bgg": 432716,
@@ -5292,6 +5322,12 @@
   "title": "Pili Pili"
  },
  {
+  "bgg": 474310,
+  "slug": "pilipiliextraspicy",
+  "status": "beta",
+  "title": "PiliPiliExtraSpicy"
+ },
+ {
   "bgg": 415054,
   "slug": "pinacoladice",
   "status": "public",
@@ -5968,6 +6004,12 @@
   "slug": "romirami",
   "status": "public",
   "title": "Romi Rami"
+ },
+ {
+  "bgg": 476808,
+  "slug": "roomandpillar",
+  "status": "beta",
+  "title": "Room and Pillar"
  },
  {
   "bgg": 127024,
