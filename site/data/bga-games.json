@@ -540,6 +540,12 @@
   "title": "Bayonets & Tomahawks"
  },
  {
+  "bgg": 465600,
+  "slug": "bearnecessities",
+  "status": "beta",
+  "title": "Bear Necessities"
+ },
+ {
   "bgg": 448416,
   "slug": "beasts",
   "status": "beta",
@@ -5134,6 +5140,12 @@
   "slug": "pandaarei",
   "status": "public",
   "title": "Panda Rei"
+ },
+ {
+  "bgg": 400113,
+  "slug": "pandapanda",
+  "status": "beta",
+  "title": "Panda Panda"
  },
  {
   "bgg": 417323,
