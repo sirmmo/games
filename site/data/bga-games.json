@@ -402,6 +402,12 @@
   "title": "Azul: Queen's Garden"
  },
  {
+  "bgg": 256226,
+  "slug": "azulstainedglassofsintra",
+  "status": "beta",
+  "title": "Azul: Stained Glass of Sintra"
+ },
+ {
   "bgg": 287954,
   "slug": "azulsummerpavilion",
   "status": "public",
@@ -2424,6 +2430,12 @@
   "title": "Farm Club"
  },
  {
+  "bgg": 399822,
+  "slug": "fate",
+  "status": "beta",
+  "title": "Fate: Defenders of Grimheim"
+ },
+ {
   "bgg": 436217,
   "slug": "fateoffellowship",
   "status": "public",
@@ -2980,6 +2992,12 @@
   "slug": "goldblivion",
   "status": "public",
   "title": "GOLDblivion"
+ },
+ {
+  "bgg": 466908,
+  "slug": "goldengoal",
+  "status": "beta",
+  "title": "Golden Goal"
  },
  {
   "bgg": 411881,
@@ -5722,6 +5740,12 @@
   "slug": "quoridor",
   "status": "public",
   "title": "Quoridor"
+ },
+ {
+  "bgg": 429851,
+  "slug": "quorum",
+  "status": "beta",
+  "title": "Quorum"
  },
  {
   "bgg": 183006,
