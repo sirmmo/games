@@ -5952,12 +5952,6 @@
   "title": "Japanese (Riichi) Mahjong"
  },
  {
-  "bgg": 451298,
-  "slug": "ringyo",
-  "status": "beta",
-  "title": "Ringyo"
- },
- {
   "bgg": 389113,
   "slug": "rivals",
   "status": "beta",
@@ -7748,7 +7742,7 @@
  {
   "bgg": 233078,
   "slug": "twilightimperium",
-  "status": "beta",
+  "status": "public",
   "title": "Twilight Imperium: Fourth Edition"
  },
  {
