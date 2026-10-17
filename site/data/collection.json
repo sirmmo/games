@@ -13807,7 +13807,7 @@
    "ownedExpansions": 0,
    "play": {
     "bga": {
-     "beta": true,
+     "beta": false,
      "slug": "echoesoftime",
      "title": "Echoes of Time",
      "url": "https://boardgamearena.com/gamepanel?game=echoesoftime"
@@ -35344,7 +35344,7 @@
    "year": 2016
   }
  ],
- "generatedAt": "2026-10-16T09:53:29Z",
+ "generatedAt": "2026-10-17T09:25:52Z",
  "source": "csv",
  "username": "sirmmo"
 }
