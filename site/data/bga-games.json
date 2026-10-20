@@ -810,6 +810,12 @@
   "title": "Bower"
  },
  {
+  "bgg": 28720,
+  "slug": "brasslancashire",
+  "status": "beta",
+  "title": "Brass: Lancashire"
+ },
+ {
   "bgg": 472157,
   "slug": "breadcrumbs",
   "status": "beta",
@@ -1336,6 +1342,12 @@
   "slug": "cityofthebigshoulders",
   "status": "public",
   "title": "City of the Big Shoulders"
+ },
+ {
+  "bgg": 400602,
+  "slug": "civolution",
+  "status": "beta",
+  "title": "Civolution"
  },
  {
   "bgg": 233961,
@@ -3884,7 +3896,7 @@
  {
   "bgg": 1219,
   "slug": "labyrinth",
-  "status": "beta",
+  "status": "public",
   "title": "Labyrinth"
  },
  {
