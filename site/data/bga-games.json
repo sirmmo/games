@@ -662,7 +662,7 @@
  {
   "bgg": 478401,
   "slug": "blacknarrows",
-  "status": "beta",
+  "status": "public",
   "title": "Black Narrows"
  },
  {
@@ -1378,6 +1378,12 @@
   "slug": "classifiedinformation",
   "status": "beta",
   "title": "Classified Information"
+ },
+ {
+  "bgg": 442093,
+  "slug": "classofeightynine",
+  "status": "beta",
+  "title": "Class of 89'"
  },
  {
   "bgg": 313963,
@@ -7306,6 +7312,12 @@
   "slug": "thewhitecastle",
   "status": "public",
   "title": "The White Castle"
+ },
+ {
+  "bgg": 438936,
+  "slug": "thewhitecastleduel",
+  "status": "beta",
+  "title": "The White Castle Duel"
  },
  {
   "bgg": 368058,
