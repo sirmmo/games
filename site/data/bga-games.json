@@ -1383,7 +1383,7 @@
   "bgg": 442093,
   "slug": "classofeightynine",
   "status": "beta",
-  "title": "Class of 89'"
+  "title": "Class of '89"
  },
  {
   "bgg": 313963,
@@ -3300,6 +3300,12 @@
   "title": "Hegemony: Lead Your Class to Victory"
  },
  {
+  "bgg": 389029,
+  "slug": "hegemonyoffaith",
+  "status": "beta",
+  "title": "Hegemony Of Faith"
+ },
+ {
   "bgg": 348447,
   "slug": "hens",
   "status": "public",
@@ -4214,7 +4220,7 @@
  {
   "bgg": 371330,
   "slug": "luthier",
-  "status": "beta",
+  "status": "public",
   "title": "Luthier"
  },
  {
@@ -6202,6 +6208,12 @@
   "slug": "savannaten",
   "status": "beta",
   "title": "Savanna Ten"
+ },
+ {
+  "bgg": 324711,
+  "slug": "schadenfreude",
+  "status": "beta",
+  "title": "Schadenfreude"
  },
  {
   "bgg": 6817,
