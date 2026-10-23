@@ -2,7 +2,7 @@
  "counts": {
   "expansions": 216,
   "games": 348,
-  "onBga": 62,
+  "onBga": 61,
   "onJustPlay": 3,
   "plays": 162
  },
@@ -10025,14 +10025,6 @@
    "name": "Coloni di Catan, I",
    "originalName": "Catan",
    "ownedExpansions": 0,
-   "play": {
-    "bga": {
-     "beta": false,
-     "slug": "catan",
-     "title": "CATAN",
-     "url": "https://boardgamearena.com/gamepanel?game=catan"
-    }
-   },
    "playingTime": 120,
    "plays": 6,
    "publishers": [
@@ -35344,7 +35336,7 @@
    "year": 2016
   }
  ],
- "generatedAt": "2026-10-22T10:15:40Z",
+ "generatedAt": "2026-10-23T10:08:24Z",
  "source": "csv",
  "username": "sirmmo"
 }
