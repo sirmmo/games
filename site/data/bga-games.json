@@ -6882,6 +6882,12 @@
   "title": "Stupor Mundi"
  },
  {
+  "bgg": 84776,
+  "slug": "summy",
+  "status": "beta",
+  "title": "Summy"
+ },
+ {
   "bgg": 473590,
   "slug": "sunfieldfarm",
   "status": "public",
