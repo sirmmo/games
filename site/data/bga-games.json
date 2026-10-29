@@ -3164,7 +3164,7 @@
  {
   "bgg": 449018,
   "slug": "gunsen",
-  "status": "beta",
+  "status": "public",
   "title": "Gunsen"
  },
  {
@@ -3790,6 +3790,12 @@
   "slug": "kingoftokyoduel",
   "status": "public",
   "title": "King of Tokyo Duel"
+ },
+ {
+  "bgg": 465735,
+  "slug": "kingoftokyodueltokyobay",
+  "status": "beta",
+  "title": "King of Tokyo Duel: Tokyo Bay"
  },
  {
   "bgg": 349082,
@@ -5040,6 +5046,12 @@
   "title": "Olenon"
  },
  {
+  "bgg": 81588,
+  "slug": "omega",
+  "status": "beta",
+  "title": "Omega"
+ },
+ {
   "bgg": 151467,
   "slug": "onceuponaforest",
   "status": "public",
@@ -5976,6 +5988,12 @@
   "title": "Japanese (Riichi) Mahjong"
  },
  {
+  "bgg": 451359,
+  "slug": "risktheabyss",
+  "status": "beta",
+  "title": "Risk the Abyss"
+ },
+ {
   "bgg": 389113,
   "slug": "rivals",
   "status": "beta",
@@ -6880,6 +6898,12 @@
   "slug": "stupormundi",
   "status": "public",
   "title": "Stupor Mundi"
+ },
+ {
+  "bgg": 112192,
+  "slug": "sugargliders",
+  "status": "beta",
+  "title": "Sugar Gliders"
  },
  {
   "bgg": 84776,
@@ -8302,6 +8326,12 @@
   "slug": "zenith",
   "status": "public",
   "title": "Zenith"
+ },
+ {
+  "bgg": 477446,
+  "slug": "zenso",
+  "status": "beta",
+  "title": "Zenso"
  },
  {
   "bgg": 331666,
