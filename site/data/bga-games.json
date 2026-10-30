@@ -4626,6 +4626,12 @@
   "title": "Mountain Goats"
  },
  {
+  "bgg": 448428,
+  "slug": "moustache",
+  "status": "beta",
+  "title": "Moustache"
+ },
+ {
   "bgg": 452211,
   "slug": "moversandshakers",
   "status": "public",
