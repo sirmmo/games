@@ -24027,7 +24027,7 @@
    "ownedExpansions": 0,
    "play": {
     "bga": {
-     "beta": true,
+     "beta": false,
      "slug": "pointcity",
      "title": "Point City",
      "url": "https://boardgamearena.com/gamepanel?game=pointcity"
@@ -35336,7 +35336,7 @@
    "year": 2016
   }
  ],
- "generatedAt": "2026-11-01T11:52:01Z",
+ "generatedAt": "2026-11-02T13:33:54Z",
  "source": "csv",
  "username": "sirmmo"
 }
