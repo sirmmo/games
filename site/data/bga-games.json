@@ -702,6 +702,12 @@
   "title": "Blooms"
  },
  {
+  "bgg": 463652,
+  "slug": "bloops",
+  "status": "beta",
+  "title": "Bloops"
+ },
+ {
   "bgg": 402711,
   "slug": "blot",
   "status": "beta",
@@ -1726,6 +1732,12 @@
   "slug": "daybreak",
   "status": "public",
   "title": "Daybreak"
+ },
+ {
+  "bgg": 433283,
+  "slug": "daydream",
+  "status": "beta",
+  "title": "Daydream"
  },
  {
   "bgg": 380135,
@@ -2956,6 +2968,12 @@
   "slug": "girafferaffe",
   "status": "public",
   "title": "Giraffe Raffe"
+ },
+ {
+  "bgg": 448281,
+  "slug": "girasoles",
+  "status": "beta",
+  "title": "Girasoles"
  },
  {
   "bgg": 246192,
@@ -4932,6 +4950,12 @@
   "title": "Noir: Killer versus Inspector"
  },
  {
+  "bgg": 436936,
+  "slug": "nolooseends",
+  "status": "beta",
+  "title": "No Loose Ends"
+ },
+ {
   "bgg": 369434,
   "slug": "noneshallpass",
   "status": "public",
@@ -6792,6 +6816,12 @@
   "title": "Stable Times"
  },
  {
+  "bgg": 475432,
+  "slug": "stackfive",
+  "status": "beta",
+  "title": "StackFive"
+ },
+ {
   "bgg": 416552,
   "slug": "stalkexchange",
   "status": "public",
@@ -8178,6 +8208,12 @@
   "title": "Wingspan"
  },
  {
+  "bgg": 359857,
+  "slug": "winter",
+  "status": "beta",
+  "title": "Winter"
+ },
+ {
   "bgg": 445044,
   "slug": "wispwood",
   "status": "beta",
@@ -8254,6 +8290,12 @@
   "slug": "yatzy",
   "status": "public",
   "title": "Yahtzee"
+ },
+ {
+  "bgg": 33767,
+  "slug": "yavalath",
+  "status": "beta",
+  "title": "Yavalath"
  },
  {
   "bgg": 420061,
