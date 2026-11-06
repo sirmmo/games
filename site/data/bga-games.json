@@ -2438,7 +2438,7 @@
  {
   "bgg": 480125,
   "slug": "fantasytiles",
-  "status": "beta",
+  "status": "public",
   "title": "Fantasy Tiles"
  },
  {
@@ -2818,6 +2818,12 @@
   "slug": "fugu",
   "status": "beta",
   "title": "Fugu"
+ },
+ {
+  "bgg": 430856,
+  "slug": "gachapontrick",
+  "status": "beta",
+  "title": "Gachapon Trick"
  },
  {
   "bgg": 163920,
@@ -6819,7 +6825,7 @@
   "bgg": 475432,
   "slug": "stackfive",
   "status": "beta",
-  "title": "StackFive"
+  "title": "Stack 5"
  },
  {
   "bgg": 416552,
