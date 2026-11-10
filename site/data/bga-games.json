@@ -2742,6 +2742,12 @@
   "title": "42"
  },
  {
+  "bgg": 440509,
+  "slug": "fountains",
+  "status": "beta",
+  "title": "My Great Game"
+ },
+ {
   "bgg": 22501,
   "slug": "fourcolorcards",
   "status": "public",
@@ -3150,6 +3156,12 @@
   "title": "Great Western Trail"
  },
  {
+  "bgg": 469489,
+  "slug": "grizzo",
+  "status": "beta",
+  "title": "Grizzo"
+ },
+ {
   "bgg": 4505,
   "slug": "grosstarock",
   "status": "public",
@@ -3160,6 +3172,12 @@
   "slug": "grovesolitaire",
   "status": "beta",
   "title": "Grove"
+ },
+ {
+  "bgg": 428682,
+  "slug": "growsky",
+  "status": "beta",
+  "title": "Grow Sky"
  },
  {
   "bgg": 392197,
@@ -5394,6 +5412,12 @@
   "title": "Petals"
  },
  {
+  "bgg": 453024,
+  "slug": "phopho",
+  "status": "beta",
+  "title": "Pho Pho"
+ },
+ {
   "bgg": 218603,
   "slug": "photosynthesis",
   "status": "public",
@@ -5464,6 +5488,12 @@
   "slug": "pioneerrails",
   "status": "beta",
   "title": "Pioneer Rails"
+ },
+ {
+  "bgg": 448179,
+  "slug": "pipoca",
+  "status": "beta",
+  "title": "Pipoca"
  },
  {
   "bgg": 311702,
@@ -5862,6 +5892,12 @@
   "title": "Rainbow"
  },
  {
+  "bgg": 415090,
+  "slug": "rainbowallplay",
+  "status": "beta",
+  "title": "Rainbow"
+ },
+ {
   "bgg": 365698,
   "slug": "rainforest",
   "status": "public",
@@ -6058,6 +6094,12 @@
   "slug": "rivervalleyglassworks",
   "status": "public",
   "title": "River Valley Glassworks"
+ },
+ {
+  "bgg": 478651,
+  "slug": "riviera",
+  "status": "beta",
+  "title": "Riviera"
  },
  {
   "bgg": 451982,
@@ -6376,6 +6418,12 @@
   "slug": "senshi",
   "status": "public",
   "title": "Senshi"
+ },
+ {
+  "bgg": 475387,
+  "slug": "serenity",
+  "status": "beta",
+  "title": "Serenity"
  },
  {
   "bgg": 154252,
@@ -7476,6 +7524,12 @@
   "title": "Through the Ages: A new Story of Civilization"
  },
  {
+  "bgg": 503,
+  "slug": "throughthedesert",
+  "status": "beta",
+  "title": "Through the Desert"
+ },
+ {
   "bgg": 21790,
   "slug": "thurnandtaxis",
   "status": "public",
@@ -8206,6 +8260,12 @@
   "slug": "wildspace",
   "status": "beta",
   "title": "Wild Space"
+ },
+ {
+  "bgg": 411033,
+  "slug": "winecellar",
+  "status": "beta",
+  "title": "Wine Cellar"
  },
  {
   "bgg": 266192,
