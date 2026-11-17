@@ -618,6 +618,12 @@
   "title": "Big Monster"
  },
  {
+  "bgg": 414174,
+  "slug": "bigsur",
+  "status": "beta",
+  "title": "Big Sur"
+ },
+ {
   "bgg": 212436,
   "slug": "bigtimesoccer",
   "status": "public",
@@ -1944,6 +1950,12 @@
   "title": "Dinosaur Tea Party"
  },
  {
+  "bgg": 360469,
+  "slug": "discipline",
+  "status": "beta",
+  "title": "Discipline: 3 Years at Jeremiah School of Magic"
+ },
+ {
   "bgg": 295895,
   "slug": "distilled",
   "status": "public",
@@ -2140,6 +2152,12 @@
   "slug": "dronesvsseagulls",
   "status": "beta",
   "title": "Drones vs Seagulls"
+ },
+ {
+  "bgg": 475466,
+  "slug": "dropsofevil",
+  "status": "beta",
+  "title": "Drops of Evil"
  },
  {
   "bgg": 45,
@@ -3160,6 +3178,12 @@
   "slug": "greatwesterntrail",
   "status": "public",
   "title": "Great Western Trail"
+ },
+ {
+  "bgg": 462605,
+  "slug": "gretchensgarden",
+  "status": "beta",
+  "title": "Gretchen's Garden"
  },
  {
   "bgg": 469489,
@@ -4242,6 +4266,12 @@
   "title": "Lords of Xidit"
  },
  {
+  "bgg": 473561,
+  "slug": "loyaltyrome",
+  "status": "beta",
+  "title": "Loyalty: Rome"
+ },
+ {
   "bgg": 118247,
   "slug": "luckynumbers",
   "status": "public",
@@ -4306,6 +4336,12 @@
   "slug": "madeira",
   "status": "public",
   "title": "Madeira"
+ },
+ {
+  "bgg": 134453,
+  "slug": "makemeaplanet",
+  "status": "beta",
+  "title": "Make Me a Planet"
  },
  {
   "bgg": 436794,
@@ -7166,7 +7202,7 @@
  {
   "bgg": 25261,
   "slug": "tannhauser",
-  "status": "beta",
+  "status": "public",
   "title": "Tannh\u00e4user"
  },
  {
@@ -8302,6 +8338,12 @@
   "slug": "wizardscup",
   "status": "public",
   "title": "Wizards Cup"
+ },
+ {
+  "bgg": 13077,
+  "slug": "wizardsgarden",
+  "status": "beta",
+  "title": "Wizard's Garden"
  },
  {
   "bgg": 340541,
