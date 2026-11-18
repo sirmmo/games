@@ -480,6 +480,12 @@
   "title": "BANG!"
  },
  {
+  "bgg": 473652,
+  "slug": "bankorbust",
+  "status": "beta",
+  "title": "Bank or Bust"
+ },
+ {
   "bgg": 14186,
   "slug": "baolakiswahili",
   "status": "public",
@@ -902,7 +908,7 @@
  {
   "bgg": 552,
   "slug": "bus",
-  "status": "beta",
+  "status": "public",
   "title": "Bus"
  },
  {
@@ -2434,6 +2440,12 @@
   "slug": "factum",
   "status": "public",
   "title": "Factum"
+ },
+ {
+  "bgg": 475685,
+  "slug": "fadenfroh",
+  "status": "beta",
+  "title": "Fadenfroh"
  },
  {
   "bgg": 288920,
@@ -4341,7 +4353,7 @@
   "bgg": 134453,
   "slug": "makemeaplanet",
   "status": "beta",
-  "title": "Make Me a Planet"
+  "title": "The Little Prince: Make Me a Planet"
  },
  {
   "bgg": 436794,
